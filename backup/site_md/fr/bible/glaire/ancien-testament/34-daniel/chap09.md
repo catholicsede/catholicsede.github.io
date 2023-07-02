@@ -1,0 +1,79 @@
+# Chapitre 9
+
+Daniel implore la miséricorde du Seigneur pour son peuple.
+L’ange Gabriel lui annonce le temps précis de la venue du Messie.
+
+***
+
+1 En la première année de Darius, fils d'Assuérus, de la race des Mèdes, qui régna sur le royaume des Chaldéens;
+
+<span class="bible-note">Note : </span> Dn. 9, 1-27 : 3° Prophétie des 70 semaines d’années, chapitre 9. ― La troisième vision développe la prophétie messianique contenue dans les chapitres 2 et 7. La première année de Darius le Mède, Daniel pensait aux soixante-dix ans que devait durer la captivité, d’après la prophétie de Jérémie, et priait Dieu de pardonner ses péchés à son peuple. L’ange Gabriel lui apparaît alors, et lui annonce à quelle époque viendra le Messie. Daniel désirait connaître à quel moment finiraient les soixante-dix ans de la captivité ; Dieu lui révèle une délivrance bien plus importante, dont celle que Jérémie avait prédite n’était que la figure.
+
+<span class="bible-note">Note : </span> Dn. 9, 1 : Darius ; le même que celui qui est mentionné à Daniel, 5, 31.
+
+2 La première année de son règne, moi, Daniel, je compris dans les livres le nombre des années, au sujet duquel la parole du Seigneur avait été adressée à Jérémie, le prophète, afin que fussent accomplis les soixante et dix ans de la désolation de Jérusalem.
+
+<span class="bible-note">Note : </span> Dn. 9, 2 : Les livres saints, les divines Ecritures, parmi lesquelles se trouvaient les prophéties de Jérémie. ― Les soixante-dix ans, etc. Voir Jérémie, 25, 11-12 ; 29, 10.
+
+3 Et je posai ma face vers le Seigneur mon Dieu, pour prier et supplier dans les jeûnes, le sac et la cendre.
+
+
+4 Et je priai le Seigneur mon Dieu, et je confessai mes fautes, et dis : Je vous conjure. Seigneur, Dieu grand et terrible, qui gardez l'alliance et la miséricorde à ceux qui vous aiment et qui gardent vos commandements.
+
+<span class="bible-note">Note : </span> Dn. 9, 4 : Voir 2 Esdras, 1, 5.
+
+
+5 Nous avons péché, nous avons commis l'iniquité, nous avons agi avec impiété, et nous nous sommes retirés, et nous nous sommes détournés de vos commandements et de vos jugements.
+
+<span class="bible-note">Note : </span> Dn. 9, 5 : Voir Baruch, 1, 17.
+
+6 Nous n'avons pas obéi à vos serviteurs les prophètes, qui ont parlé en votre nom à nos rois, à nos princes, à nos pères, et atout le peuple de la terre. 7 A vous, Seigneur, la justice, et à nous la confusion du visage, comme elle est aujourd'hui à l'homme de Juda, et aux habitants de Jérusalem, et à tout Israël; à ceux qui sont près et à ceux qui sont loin, dans toutes les terres où vous les avez jetés à cause de leurs iniquités par lesquelles ils ont péché contre vous. 8 Seigneur, à nous la confusion du visage, et à nos rois, et à nos princes, et à nos pères qui ont péché. 9 Mais à vous, Seigneur notre Dieu, la miséricorde et la propitiation, parce que nous nous sommes retirés de vous; 10 Et nous n'avons pas écouté la voix du Seigneur notre Dieu, afin de marcher dans sa loi qu'il nous a donnée par ses serviteurs les prophètes. 11 Et tout Israël a prévariqué contre votre loi, et il s'est détourné pour ne pas écouter votre voix; et la malédiction a distillé sur nous, et l'exécration qui est écrite dans le livre
+de Moïse, serviteur de Dieu, parce que nous avons péché contre lui;
+
+<span class="bible-note">Note : </span> Dn. 9, 11 : Dans le livre de Moïse. Voir Lévitique, chapitre 26 ; Deutéronome, du chapitre 27 au chapitre 29.
+
+12 Et il a confirmé ses paroles qu'il a dites sur nous, et sur nos princes qui nous ont jugés, afin de faire venir sur nous un grand mal, tel qu'il n'en fut jamais sous le ciel, comme celui qui a été fait en Jérusalem. 13 Comme il est écrit dans la loi de Moïse, tout ce mal est venu sur nous; et nous n'avons pas prié votre face. Seigneur notre Dieu, afin de revenir de nos iniquités, et de méditer votre vérité.
+
+<span class="bible-note">Note : </span> Dn. 9, 13 : Votre vérité ; votre fidélité dans l’exécution de vos paroles, soit promesses, soit menaces.
+
+14 Et le Seigneur a veillé sur le mal, et l'a amené sur nous; il est juste, le Seigneur notre Dieu, en toutes ses œuvres qu'il a faites; car nous n'avons pas écouté sa voix. 15 Et maintenant, Seigneur notre Dieu, qui avez tiré votre peuple de la terre d'Egypte par une main puissante, et qui vous êtes fait un nom comme il est aujourd'hui, nous avons péché, nous avons commis l'iniquité.
+
+<span class="bible-note">Note : </span> Dn. 9, 15 : Voir Baruch, 2, 11 ; Exode, 14, 22.
+
+16 Seigneur, par toute votre justice, je vous conjure, que votre colère et votre fureur soient détournées de votre cité, Jérusalem, et de votre montagne sainte. Car c'est à cause de nos péchés et des iniquités de nos pères, que Jérusalem et votre peuple sont en opprobre à tous autour de nous. 17 Maintenant donc exaucez, ô notre Dieu, la prière de votre serviteur et ses supplications; et montrez votre face sur votre sanctuaire, qui est désolé, à cause de vous-même. 18 Inclinez, ô mon Dieu, votre oreille, et écoutez; ouvrez vos yeux et voyez notre désolation, et la cité sur laquelle votre nom a été invoqué ; car ce n'est pas en vue de notre justice que, prosternés, nous répandons nos prières devant votre face, mais en vue de vos miséricordes abondantes.
+
+<span class="bible-note">Note : </span> Dn. 9, 18 : Sur laquelle, etc. ; selon d’autres : Laquelle a été appelée de votre nom ; qui porte votre nom. Le texte hébreu est susceptible de ces deux sens.
+
+19 Exaucez-nous, Seigneur; apaisez-vous, Seigneur; soyez attentif et agissez; ne tardez pas, à cause de vous-même, ô mon Dieu ; parce que votre nom a été invoqué sur la cité et sur votre peuple.
+
+
+20 Et comme je parlais encore, et que je priais, et que je confessais mes péchés et les péchés de mon peuple Israël, et que prosterné, je répandais mes prières en la présence de mon Dieu, pour la montagne sainte de mon Dieu; 21 Moi parlant encore dans ma prière, voilà que l'homme Gabriel, que j'avais vu dans la vision, au commencement, volant vite, me toucha au temps du sacrifice du soir.
+
+<span class="bible-note">Note : </span> Dn. 9, 21 : L’homme Gabriel. Voir Daniel, 8, 16.
+
+22 Et il m'instruisit, et il me parla, et dit : Daniel, maintenant je suis sorti afin de t'instruire, et que tu comprennes.
+
+
+23 Dès le commencement de tes prières est sortie une parole ; mais moi je suis venu pour te la faire connaître, parce que tu es un homme de désirs; toi donc, sois attentif à cette parole, et comprends la vision.
+
+<span class="bible-note">Note : </span> Dn. 9, 23 : Un homme de désirs ; hébraïsme, pour un homme très désirable, très digne d’être aimé.
+
+24 Soixante-dix semaines ont été abrégées pour ton peuple et pour ta ville sainte, afin que soit abolie la prévarication, et que prenne fin le péché, et que soit effacée l'iniquité, et que vienne la justice éternelle, et que soient accomplies la vision et la prophétie, et que soit oint le saint des saints.
+
+<span class="bible-note">Note : </span> Dn. 9, 24-27 : Voici la traduction de cette importante prophétie d’après le texte original : « Soixante-dix semaines, dit-il, ont été fixées pour ton peuple et pour ta ville sainte, afin que la prévarication soit abolie, que le péché finisse et que l’iniquité soit effacée [par la mort de Jésus-Christ] ; afin que la justice éternelle [le Messie, voir Jérémie, 23, 6 ; 33, 16 ; Isaïe, 45, 8 ; 1 Corinthiens, 1, 30], vienne [sur la terre], que les visions et les prophéties soient accomplies [en Jésus-Christ qu’elles ont annoncé], et que le Saint des saints [le Verbe de Dieu fait chair] soit oint [ou rempli de la vertu du Saint-Esprit, voir Actes des Apôtres, 10, 38 ; Isaïe, 61, 1 ; Luc, 4, 18]. ― Sache-le donc et remarque-le bien : Depuis la publication de l’ordre qui sera donné pour rebâtir Jérusalem jusqu’au prince Messie [ou Christ], il y aura sept semaines, et soixante-deux semaines, et les places et les murailles de la ville seront rebâties dans des temps difficiles. Et après soixante-deux semaines, le
+Christ sera mis à mort, et le peuple qui doit le renier ne sera plus son peuple. Un peuple, avec son chef qui doit venir [Vespasien ou Titus, avec l’armée romaine], détruira la ville de Jérusalem et le sanctuaire ; elle finira par une ruine entière ; quand la guerre sera terminée, arrivera la désolation qui lui a été prédite. ― [Alors le Christ] fera une alliance ferme [et stable, comme l’avait prédit Jérémie, 31, 31], avec un grand nombre, [avec tous ceux qui voudront embrasser sa foi et participer ainsi à ses mérites, car il est mort pour tous], dans une semaine, [par l’effusion de son sang et la prédication de l’Evangile] ; et au milieu de la semaine, [quand le Messie sera immolé], les oblations et les sacrifices cesseront, [ils seront rendus inutiles et sans valeur par la mort de Jésus-Christ, de qui ils tiraient leur vertu]. Et l’abomination de la désolation sera dans le temple, et la désolation durera jusqu’à la consommation et à la fin. » Cette dernière partie de la prophétie est obscure dans le texte
+original. « L’hébreu à la lettre : Et sur l’aile, l’abomination de désolation, dit Calmet. Cette aile marque le temple, du consentement des anciens interprètes. On peut donner ce nom principalement au toit et à la hauteur du temple, voir Matthieu, 9, 5 (? )… L’abomination se vit dans le temple, lorsque les Romains l’ayant pris, y plantèrent leurs enseignes chargées des figures de leurs dieux et des images des Césars ; ou bien cette abomination marque les infamies, les meurtres et les autres sacrilèges qui furent commis dans ce lieu saint par les Juifs mêmes, pendant le dernier siège. Le Prophète ajoute que l’abomination y demeurera, usque ad consummationem et finem…, ou plutôt, suivant l’hébreu, jusqu’à la ruine déterminée, jusqu’à ce que le temple soit entièrement ruiné. C’est le sens le plus naturel ; les termes de l’orignal marquent ordinairement une perte entière et l’exécution des plus sévères jugements de Dieu. » Il faut remarquer que la profanation du temple par Antiochus est aussi prédite, voir Daniel
+, 11, 31, mais la profanation commise par le roi Séleucide n’est pas l’accomplissement de la prophétie que nous avons ici ; cette dernière se rapporte incontestablement aux temps messianiques. La profanation du temple par le roi syrien ne fut que partielle et temporaire, celle des Romains fut complète et définitive. Quant aux chiffres que nous donne cette prophétie, en voici la valeur : les soixante-dix semaines d’années font 490 ans. L’ange Gabriel les divise en trois parties : la première est de sept semaines ou de 49 ans, après lesquels les murs de Jérusalem seront achevés ; la seconde est de soixante-deux semaines, ou 434 ans, à la fin desquels le Christ sera oint ; la troisième comprend la soixante-dixième semaine, au milieu de laquelle le Messie sera mis à mort. La détermination de ces dates n’est pas sans offrir des difficultés. La plupart des commentateurs font partir les soixante-dix semaines de l’édit d’Artaxerxès, vers l’an 445. Depuis cette date jusqu’à la 15e année de Tibère, qui est l’année du
+baptême du Notre-Seigneur, il s’est écoulé 475 ans ; nous arrivons ainsi à peu de chose près à la 70e semaine, au milieu de laquelle la Sauveur fut crucifié.
+
+<span class="bible-note">Note : </span> Dn. 9, 24 : Voir Jean, 1, 45. ― Soixante-dix, etc. ; c’est-à-dire, le temps de la captivité a été abrégé et réduit à soixante-dix semaines en faveur de ton peuple et de ta ville sainte. Ces soixante-dix semaines qui sont des semaines d’années (Comparer à Lévitique, 25, 8), et qui font quatre cent quatre-vingt-dix ans, se comptent depuis l’ordre donné par Artaxerxès Longuemain pour le rétablissement de Jérusalem. Cette prophétie de Daniel, qui commence à ce verset et se continue aux trois suivants, ne saurait avoir d’autre objet que le Messie, Jésus de Nazareth. Aussi le très petit nombre des interprètes, qui l’appliquent à Cyrus ou à Alexandre, a contre lui non seulement toute l’antiquité, mais encore la lettre même du texte sacré. ― La Vulgate porte : ont été abrégées ; mais abréger signifie ici, de même que le mot hébreu nekhtak, dont il est la traduction, trancher, arrêter, déterminer, fixer, comme à Isaïe, 10, 22, (? ) où consummatio abbreviata signifie un malheur total et déterminé. Ce n’est pas une
+prophétie conditionnelle et incertaine, mais sûre, qui s’accomplira au temps marqué.
+
+25 Sache donc, et remarque bien : Depuis que sortira la parole pour que de nouveau soit bâtie Jérusalem, jusqu'au Christ chef, il y aura sept semaines et soixante-deux semaines, et de nouveau sera bâtie la place publique et les murailles dans les temps difficiles. 26 Et après soixante-deux semaines, le Christ sera mis à mort; et il ne sera pas son peuple, le peuple qui doit le renier. Et un peuple, avec un chef qui doit venir, détruira la cité et le sanctuaire ; et sa fin sera la dévastation, et après la fin de la guerre, la désolation décrétée.
+
+<span class="bible-note">Note : </span> Dn. 9, 26 : Il ne sera pas son peuple. L’hébreu porte : Le Messie sera exterminé [ou retranché, mis à mort], et ce n’est pas lui. Ce dernier membre de phrase incomplet est diversement interprété, mais le sens le plus simple et le plus naturel est celui de notre Vulgate : Le peuple qui l’a renié n’est plus à lui.
+
+27 Mais il confirmera son alliance avec un grand nombre dans une semaine; et au milieu de la semaine cesseront l'oblation et le sacrifice; et l'abomination de la désolation sera dans le temple, et la désolation continuera jusqu'à la consommation et à la fin.
+
+<span class="bible-note">Note : </span> Dn. 9, 27 : Voir Matthieu, 24, 15. ― La désolation. La fin de cette désolation fut une entière ruine commencée par Titus et achevée par Adrien. ― Pour suivre l’ordre des temps, il semble qu’il faut passer d’ici au chapitre 14, qui, ne se trouvant pas dans les exemplaires hébreux, a été renvoyé à la fin du livre dans les exemplaires grecs et latins.
+

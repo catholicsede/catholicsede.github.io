@@ -1,0 +1,4 @@
+#set editing-mode vi
+#$if mytab 
+#  TAB:self-insert
+#$endif

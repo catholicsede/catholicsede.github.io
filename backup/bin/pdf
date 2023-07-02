@@ -1,0 +1,4 @@
+#!/bin/ksh
+
+zathura $1 &
+#mupdf $1 &

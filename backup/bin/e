@@ -1,0 +1,12 @@
+#!/bin/ksh
+
+xterm -e "less -x 4 $1" & xterm -e "$EDITOR $1" & 
+
+sleep 1
+
+kill -9 $(ps | awk ' $3 == "Sp" && $5 ~ /ksh/ {
+	print $1;
+}')
+
+
+

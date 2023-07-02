@@ -1,0 +1,256 @@
+# Static site generator 
+# ---------------------
+# - Content written in Markdown
+# - Each folder must contain index.md
+# - Each file must have a title
+# - List of posts in each index.html
+# - Commands:
+# 	 ssg css 		-> upload css only
+# 	 ssg run 		-> upload css and posts locally
+# 	 ssg push 		-> push to Github Pages
+# 	 ssg backup		-> save backup in git repo 
+# 	 ssg all 		-> run all commands above at once 
+# 	 ssg e 			-> edit current script
+# 	 ssg s 			-> open in browser
+# 	 ssg <file> 	-> upload make single post 
+# 	 ssg <folder> 	-> upload make entire folder 
+# 	 ssg rm			-> delete html content 
+# 	 ssg clean		-> clean html content 
+# 	 ssg clone		-> clone repo
+
+#!/bin/sh
+
+# Macros
+BRO=w3m
+SRC=/mnt/disk/livres/autres/site_md
+DST=/var/www/htdocs/site_html
+TMPL=/mnt/disk/livres/autres/site_md/templates
+REPO='git@github.com:catholicsede/catholicsede.github.io.git'
+
+# Make news
+function make_news {
+	slug=$1
+	lang=$(get_lang $slug)
+	title=$(get_title $SRC'/'$lang'/news/index.md')
+	echo '## '$title
+	i=1
+	for file in $SRC'/'$lang'/news/'*; do
+		if [[ $(basename $file) != 'index.md' &&
+			 $i < 10 ]]; then
+			title=$(get_title $file)	
+			date=$(get_date $file)
+			slug=$(echo $file | sed -E "s|$SRC||" | sed -E 's/\.md/\.html/')
+			echo '*'$date'* - ['$title']('$slug')\n'
+			i=$(( i + 1 ))
+		fi
+	done
+	echo '\n[>>](/'$lang'/news/index.html)'
+	echo '***'
+}
+
+# Make the navigation bar
+function make_nav {
+	path=''
+	echo '<p>'
+	nav_out=$(echo $1 | sed -E "s|$SRC||")
+	for n in $(echo $nav_out | tr "/" "\n"); do 
+		if [ -z "$n" ]; then
+			continue
+		fi
+		path=$path'/'$n
+		t=$(get_title $SRC$path'/index.md')
+		if [ ! -n "$(echo $path | grep -E '^\/[a-z]{2}$')" ]; then
+			echo -n ' > <a href="'$path'/index.html">'$t'</a>'
+		fi
+	done
+	echo '</p>'
+}
+
+# Get title from a markdown file
+function get_title {
+	echo $(grep -E '^# ' $1 | sed 's/#//')
+}
+
+# Get date from a markdown file
+function get_date {
+	echo $(grep -oE '^[0-9]{2}\/[0-9]{2}' $1)
+}
+
+# Get language
+function get_lang {
+	lang=$(echo "$1" | grep -Eo '^\/[a-z]{2}' | grep -Eo '[a-z]{2}')
+	echo $lang
+}
+
+# Get the excerpt below the title
+function get_excerpt {
+	while read line; do
+		if [ -n "$(echo "$line" | grep -E '\*\*\*')" ]; then
+			return
+		fi
+		if [ ! -n "$(echo $line | grep -E '^#')" ]; then
+			echo $line | sed -E 's/\n//g' 
+		fi
+	done < $1
+}
+
+# Make the list of posts contained in a given folder
+function make_index {
+	echo '<ul>'
+	for f in $(ls -d $(dirname $1)/*); do
+		if [[ $(basename $f) == "templates" || 
+				-n $(echo $(basename $f) | grep -oE '\.hide') ||
+				$(basename $f) == "index.md" ||
+				$(basename $f) == "images" ||
+				$(basename $f) == "archive" ]]; then
+			continue
+		elif [ -d $f ]; then
+			title=$(get_title $f'/index.md')
+			excerpt=$(get_excerpt $f'/index.md')
+		else
+			title=$(get_title $f)
+			excerpt=$(get_excerpt $f)
+		fi
+		out=$(echo $f | sed -E "s|$SRC||" | sed -E 's/\.md/\.html/')
+		if [[ -n $out && $out != " " ]]; then
+			echo '<li><a href="'$out'">'$title'</a></li>'
+			echo '<div class="excerpt">'$excerpt'</div>'
+		fi
+	done
+	echo '</ul>'
+}
+
+# Process individual post
+function make_post {
+	file_in=$1
+	file_in=$(echo $file_in | sed -E 's|//|/|g')
+
+	if [ -d $file_in ]; then
+		file_out=$(echo $file_in | sed -E "s|$SRC|$DST|")
+		mkdir -p $file_out
+		main $file_in
+	elif [ $(echo $file_in | cut -d '.' -f2) == "md" ]; then
+
+		echo '-->'$file_in
+
+		# Prepare output file name
+		file_out=$(echo $file_in | sed -E "s|$SRC|$DST|" | sed -E 's/\.md/\.html/')
+
+		# Get post slug
+		file_slug=$(echo $file_out | sed -E "s|$DST||")
+
+		# Get language
+		lang=$(get_lang $file_slug)
+
+		# Append header to $file_out 
+		cat $TMPL'/header-'$lang > $file_out
+
+		# Edit canonical link
+		sed -i "s|\/xx.html|$file_slug|" $file_out
+
+		# Append navigation
+		make_nav $(dirname $file_in | sed -E "s|$DST||") >> $file_out
+
+		# Append markdown content to $file_out
+		# (might need to leave a blank line at the top)
+		if [[ $file_slug == '/'$lang'/index.html' &&
+			 -f $SRC'/'$lang'/news/index.md' ]]; then
+			make_news $file_slug | lowdown --html-no-head-ids --html-no-skiphtml --html-no-escapehtml >> $file_out
+		fi
+		lowdown --html-no-head-ids --html-no-skiphtml --html-no-escapehtml $file_in >> $file_out
+
+		# Append index list to index.html
+		if [ $(basename $file_in) == "index.md" ]; then
+			make_index $file_in >> $file_out
+		fi
+
+		# Append footer to $file_out
+		cat $TMPL'/footer-'$lang >> $file_out
+	fi
+}
+
+# Loop through all posts
+function main {
+	cp $SRC/index.html $DST/
+	for file in $1/*; do
+		# Skip 
+		if [[ $(basename $file) == "templates" ||
+				-n $(echo $(basename $file) | grep -oE '\.hide') ||
+				$(basename $file) == "index.html" ||
+				$(basename $file) == "images" ||
+				$(basename $file) == "archive" ]]; then
+			continue
+		fi
+		make_post $file
+	done
+}
+
+case $1 in
+	clone)
+		git clone $REPO .;;
+	clean)
+		echo -n "Clean content of $DST? y [n]: "
+		read del
+		if [ "$del" != "y" ]; then
+			echo "No deletion."
+			exit
+		fi
+		git -C $DST ls-files --deleted
+		echo -n "Proceed? y [n]: "
+		read pro 
+		if [ "$pro" != "y" ]; then
+			echo "Exit."
+			exit
+		fi
+		git -C $DST ls-files --deleted | xargs git rm;;
+	backup)
+		mkdir -p $DST/backup/site_md
+		mkdir -p $DST/backup/bin
+		mkdir -p $DST/backup/config
+		rsync -av --delete $SRC/ $DST/backup/site_md/
+		rsync -av --delete $HOME/bin/ $DST/backup/bin/
+		cp /etc/man.conf $DST/backup/config/
+		cp /etc/httpd.conf $DST/backup/config/
+		cp $HOME/.Xresources $DST/backup/config/
+		cp $HOME/.exrc $DST/backup/config/
+		cp $HOME/.profile $DST/backup/config/
+		cp $HOME/.tmux.conf $DST/backup/config/
+		cp $HOME/.config/zathura/zathurarc $DST/backup/config/
+		cp $HOME/.cwmrc $DST/backup/config/
+		cp $HOME/.inputrc $DST/backup/config/
+		cp $HOME/.w3m/config $DST/backup/config/w3m.config
+		cp $HOME/.ebrc $DST/backup/config/
+		cp $HOME/.lesskey $DST/backup/config/
+		rsync -rtv --delete $DST/backup/ /mnt/disk/backup/
+		cp -r $HOME/.ssh /mnt/disk/backup/;;
+	rm)
+		echo -n "Delete content of $DST? y [n]: "
+		read del
+		if [ "$del" != "y" ]; then
+			echo "No deletion."
+			exit
+		fi
+		find $DST/* -not -path '*/\.*' | xargs rm -rf;
+		echo "Content deleted.";;
+	b)
+		$BRO localhost;;
+	e)
+		e $HOME/bin/ssg;;
+	css)
+		cp -r $TMPL/css $DST/;;
+	run)
+		mkdir -p $DST/images
+		rsync -av --delete $SRC/images/ $DST/images/
+		cp -r $TMPL/css $DST/
+		main $SRC;;
+	push)
+		git -C $DST add . 
+		git -C $DST commit -m "update"
+		git -C $DST push;;
+	all)
+		ssg run
+		ssg backup
+		ssg push;;
+	*)
+		make_post `pwd`'/'$1;;
+esac

@@ -1,0 +1,4 @@
+#!/bin/ksh
+
+lowdown $1 > /tmp/$1.html
+w3m /tmp/$1.html

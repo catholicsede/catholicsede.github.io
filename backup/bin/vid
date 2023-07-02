@@ -1,0 +1,21 @@
+#!/bin/ksh
+
+for file in images-in/image-*; do
+	echo $file;
+	convert \
+		-background black \
+		-fill white -pointsize 200 \
+		-font NewCenturySchlbk-Bold \
+		-annotate +500+500 "some test" \
+		$file \
+		-resize 1280x720 \
+		-gravity center \
+		-extent 1280x720 \
+		'images-out/'$(basename $file)
+done
+
+ffmpeg \
+	-f concat -i input.txt \
+	-i audios/audio-001.mp3 \
+	output.mp4 
+

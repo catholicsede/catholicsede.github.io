@@ -1,0 +1,77 @@
+html {
+	background-color: #FFFFE8;
+	padding: 10px;
+	font-size: 18px;
+  	font-family: Arial, sans-serif;
+}
+body {
+	max-width: 800px;
+	margin-top : 20px;
+	margin-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+h2 {
+	font-size: 20px;
+}
+p {
+	line-height: 1.3;
+}
+.index {
+	text-align: center;
+	min-height: 500px;
+}
+article {
+	min-height: 500px;
+}
+article li {
+	margin: 5px 0px 5px 0px;
+}
+.excerpt p {
+	margin: 0px 0px 10px 0px;
+}
+header .header-site {
+	font-size: 35px;
+	margin-bottom: 5px;
+}
+header .header-site a {
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+header .header-text {
+	font-style: italic;
+}
+nav {
+	background-color: rgb(120, 120, 120);	
+	padding: 5px 5px 5px 10px;
+	font-size: 18px;
+	color: white;
+}
+nav a {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+nav a:hover {
+	text-decoration: underline;
+}
+footer {
+	background-color: rgb(220, 220, 220);	
+	padding: 10px;
+	font-size: 14px;
+	font-style: italic;
+}
+hr {
+	color: rgb(240, 240, 240);
+}
+.bible-note {
+	font-style: italic;
+	font-weight: bold;
+}
+@media screen and (max-width: 800px) {
+	blockquote {
+		margin: 0px;
+	}
+}
+

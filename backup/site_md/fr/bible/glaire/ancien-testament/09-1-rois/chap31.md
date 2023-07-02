@@ -1,0 +1,38 @@
+# Chapitre 31
+
+Combat des Philistins contre Israël.
+Mort de Saül et de ses fils.
+
+***
+
+1 Cependant les Philistins combattaient contre Israël; et les hommes d'Israël s'enfuirent devant les Philistins, et tombèrent morts sur la montagne de Gelboé.
+
+<span class="bible-note">Note : </span> I Rois 31, 1 : Gelboé. Voir 1 Rois, 18, 4.
+
+2 Et les Philistins fondirent sur Saül et ses fils, et tuèrent Jonathas, Abinadab et Melchisua, fils de Saül.
+
+<span class="bible-note">Note : </span> I Rois 31, 2 : Voir 1 Paralipomènes, 10, vv. 2, 5.
+
+3 Et tout le poids de la bataille tomba sur Saül ; et les archers le poursuivirent, et il fut grièvement blessé par les archers. 4 Alors Saül dit à son écuyer : Tire ton glaive et frappe-moi, de peur que ces incirconcis ne viennent, et ne me tuent, en se jouant de moi. Et son écuyer ne voulut pas; car il avait été épouvanté d'une trop grande terreur; c'est pourquoi Saül saisit son glaive et se jeta dessus.
+
+<span class="bible-note">Note : </span> I Rois 31, 4 : Voir 1 Paralipomènes, 10, 4.
+
+5 Ce qu'ayant vu son écuyer, c'est-à-dire que Saül était mort, il se jeta lui aussi sur son épée et mourut avec lui. 6 Saül mourut donc, en même temps que ses trois fils, son écuyer, et tous ses hommes, en ce jour-là.
+
+<span class="bible-note">Note : </span> I Rois 31, 6 : Sur les causes de ce châtiment de Saül, voir 1 Paralipomènes, 10, 13.
+
+7 Or, les hommes d'Israël qui étaient au-delà de la vallée et au-delà du Jourdain, voyant que les Israélites avaient fui, et que Saül était mort ainsi que ses fils, abandonnèrent leurs cités et s'enfuirent ; et les Philistins vinrent et y habitèrent.
+
+
+8 Mais, le jour suivant arrivé, les Philistins vinrent pour dépouiller ceux qui avaient été tués, et ils trouvèrent Saül et ses trois fils étendus sur la montagne de Gelboé. 9 Et ils coupèrent la tête de Saül, et le dépouillèrent de ses armes; puis, ils envoyèrent dans la terre des Philistins tout autour, pour que la nouvelle fut portée dans le temple des idoles, et parmi les peuples. 10 Et ils déposèrent ses armes dans le temple d'Astaroth ; mais son corps, ils le suspendirent au mur de Bethsan.
+
+<span class="bible-note">Note : </span> I Rois 31, 10 : Le temple d’Astaroth. Voir Juges, 3, 7. ― L’Astaroth des Philistins s’appelait proprement Atergatis ou Derketo, voir 1 Rois, note 5. 2, mais elle ne différait guère d’Astarté que par la forme. ― Bethsan, appelée depuis Scythopolis, était située à l’ouest et non loin du Jourdain, au sud du lac de Tibériade.
+
+
+11 Lorsque les habitants de Jabès-Galaad eurent appris tout ce que les Philistins avaient fait à Saül,
+
+<span class="bible-note">Note : </span> I Rois 31, 11 : Voir 2 Rois, 2, 4. ― Jabès-Galaad. Voir Juges, 21, 8.
+
+12 Tous les hommes les plus vaillants se levèrent, et marchèrent pendant toute la nuit, et ils enlevèrent le cadavre de Saül, et les cadavres de ses fils du mur de Bethsan ; puis, ils vinrent à Jabès-Galaad, et les brûlèrent là. 13 Et ils emportèrent leurs os, et les ensevelirent dans le bois de Jabès, et ils jeûnèrent pendant sept jours.
+
+<span class="bible-note">Note : </span> I Rois 31, 13 : Ils jeûnèrent ; en signe de deuil. Le jeûne et le deuil étaient comme inséparables ; le deuil ordinaire était de sept jours.

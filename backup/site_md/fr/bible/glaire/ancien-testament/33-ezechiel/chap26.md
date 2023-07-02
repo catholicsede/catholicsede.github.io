@@ -1,0 +1,60 @@
+# Chapitre 26
+
+Tyr sera détruite par Nabuchodonosor, pour avoir insulté au malheur de Jérusalem.
+Sa ruine inspirera la frayeur à tous les peuples maritimes.
+
+***
+
+1 Et il arriva à la onzième année, au premier jour du mois, que la parole du Seigneur me fut adressée, disant :
+
+<span class="bible-note">Note : </span> Éz. 26, 1 : La onzième année de la captivité de Jéchonias et du règne de Sédécias, l’année même de la prise de Jérusalem (voir 4 Rois, 25, verset 2 et suivants ; Jérémie, 52, verset 5 et suivants). ― Du mois ; ce mois n’étant désigné ni dans le texte original, ni dans les versions, les interprètes se sont livrés à diverses conjectures, dont aucune ne paraît entièrement satisfaisante. ― Disant (dicens). Voir, sur ce mot, Ezéchiel, 3, 16.
+
+
+2 Fils d'un homme, à cause que Tyr a dit de Jérusalem : Très bien : les portes des peuples ont été brisées, elle s'est tournée vers moi; je serai remplie, elle est déserte;
+
+<span class="bible-note">Note : </span> Éz. 26, 2 et sui : vants « Si le prophète Ezéchiel, annonçant à la cité arrogante et superbe (Tyr) ses malheurs futurs, n’y eût joint le tableau de la grandeur dont elle allait déchoir, nous n’aurions aujourd’hui, dit l’amiral Julien de la Gravière, qu’une idée imparfaite du degré d’opulence auquel pouvait attendre, dans l’antiquité, une place de commerce. Tyr s’était réjouie du sac de Jérusalem ; le prophète lui prédit que ses murs aussi tomberont, assaillis par les tours de bois et par les chaussées de terre, ébranlés à la base par les béliers. Ce rocher, où les pêcheurs font de nos jours sécher leurs filets, a été jadis le marché du monde. Les flottes y rapportaient des contrées les plus éloignées des richesses immenses : des ports de la Libye, du fer, de l’étain et du plomb ; de la Grèce, des esclaves et des chevaux. L’Ethiopie fournissait l’ébène et l’ivoire ; la Syrie, les pierres précieuses, la pourpre, les étoffes de lin et de soie ; la Judée, le froment, le baume, le miel, l’huile et les
+résines. Du territoire de Damas venaient les laines et les vins ; de l’Arabie, les bestiaux ; de Saba, l’or et les parfums. L’Afrique, l’Asie et l’Europe contribuaient à l’envi au luxe d’une cité assez riche pour garnir d’ivoire les bancs de ses rameurs et dont chaque armateur vivait entouré de la splendeur d’un prince. Pendant près de six siècles, cette prospérité merveilleuse connut à peine quelques passagères éclipses. En l’année 715, le roi d’Assyrie vint frapper sans succès aux portes de Tyr ; cent quarante et un ans plus tard, le roi de Babylone, Nabuchodonosor, les enfonça. Le siège dura cependant quatorze ans. Plus d’un guerrier y perdit les cheveux et revint les épaules courbées » Tyr ne s’est plus relevée de sa ruine. « Quelques centaines de maisons croulantes et presque désertes, où les Arabes rassemblent le soir les grands troupeaux de moutons et de chèvres noires, aux longues oreilles pendantes, qui défilent devant nous dans la plaine, voilà la Tyr d’aujourd’hui, dit Lamartine. Elle n’a plus de
+port sur les mers, plus de chemins sur la terre ; les prophéties se sont dès longtemps accomplies sur elle. »
+
+<span class="bible-note">Note : </span> Éz. 26, 2 : Les portes des peuples. Ces mots, qui s’appliquent à Jérusalem et qui sont mis dans la bouche des Tyriens, indiquent que les Phéniciens avaient pris ombrage du commerce que les habitants de Jérusalem faisaient avec les peuples voisins, et pour ce motif, ils applaudissent à la ruine de la cité sainte.
+
+3 A cause de cela, voici ce que dit le Seigneur Dieu : Voilà que moi je suis contre toi, ô Tyr, et je ferai monter vers toi des nations nombreuses, comme la mer fait monter ses flots. 4 Et ils renverseront les murs de Tyr, et ils détruiront ses tours; j'en raclerai la poussière, et je la rendrai comme une pierre très lisse. 5 Elle servira à sécher les filets au milieu de la mer; parce que moi j'ai parlé, dit le Seigneur Dieu ; et Tyr sera en proie aux nations.
+
+<span class="bible-note">Note : </span> Éz. 26, 5 : Suivant les récits des voyageurs, de nos jours même, les pêcheurs étendent réellement et font sécher leurs filets sur l’emplacement où s’élevait Tyr. ― Au milieu de la mer. L’ancienne Tyr était située sur le continent, et la nouvelle dans une île ; mais elles ne constituaient toutes deux qu’une seule république, et en quelque sorte qu’une même ville.
+
+6 Ses filles aussi qui sont dans la campagne seront tuées par le glaive ; et ils sauront que je suis le Seigneur.
+
+<span class="bible-note">Note : </span> Éz. 26, 6 : Ses filles ; les villes de sa dépendance.
+
+
+7 Parce que voici ce que dit le Seigneur Dieu : Voilà que moi j'amènerai à Tyr, de la terre de l'aquilon, Nabuchodonosor, roi de Babylone, roi des rois, avec des chevaux et des chars, et des cavaliers, et une multitude, et un nombreux peuple. 8 Tes filles qui sont dans la campagne, il les tuera par le glaive ; et il t'environnera de fortifications, et il formera un rempart autour, et il élèvera contre toi un bouclier. 9 Et il organisera des mantelets et des béliers contre tes murs, et il détruira tes tours avec ses armes. 10 A cause de l'inondation de ses chevaux tu seras couverte de poussière ; au bruit des cavaliers, et des roues, et des chars, tes murailles s'ébranleront, lorsqu'il entrera dans tes portes comme par la brèche d'une ville prise d'assaut. 11 Sous les sabots de ses chevaux il foulera toutes tes places : il frappera ton peuple du glaive, et tes fameuses statues tomberont à terre. 12 Ils raviront tes richesses, pilleront tes marchandises, et détruiront tes murs ; ils renverseront tes maisons
+magnifiques, et tes pierres, et tes bois, et ta poussière, ils les jetteront au milieu des eaux.
+
+<span class="bible-note">Note : </span> Éz. 26, 12 : Ta poussière ; c’est-à-dire la poussière de tes bâtiments.
+
+13 Et je ferai cesser la multitude de tes cantiques, et le son de tes harpes ne sera plus entendu.
+
+<span class="bible-note">Note : </span> Éz. 26, 13 : Voir Jérémie, 7, 34.
+
+14 Et je te rendrai comme une pierre très lisse, et tu serviras à sécher les filets, et tu ne seras plus rebâtie; parce que moi j'ai parlé, dit le Seigneur Dieu.
+
+<span class="bible-note">Note : </span> Éz. 26, 14 : Tu serviras, etc. Voir le verset 5. ― Tu ne seras plus rebâtie. L’ancienne Tyr, prise par Nabuchodonosor, ne fut jamais rebâtie. Quant à la prédiction d’Isaïe (voir Isaïe, 23, 17), que Tyr, après un oubli de soixante-dix années, serait visitée par le Seigneur, et mise en état de recommencer son premier commerce, elle peut s’expliquer en l’appliquant à Tyr la nouvelle, qui fut élevée par les habitants de l’ancienne, lorsqu’ils se réfugièrent dans l’île pendant le siège.
+
+15 Voici ce que dit le Seigneur Dieu à Tyr : Est-ce qu'au bruit de ta ruine, et au gémissement de tes tués, lorsqu'ils auront été mis à mort au milieu de toi, les îles ne seront pas émues? 16 Et tous les princes de la mer descendront de leurs trônes, et ils quitteront les marques de leur grandeur, et ils jetteront leurs habits de diverses couleurs, et ils seront vêtus de stupeur; ils s'assiéront sur la terre, et épouvantés de ta chute soudaine, ils seront dans l'étonnement.
+
+
+17 Et faisant entendre sur toi des lamentations, ils te diront : Comment as-tu péri, toi qui habites sur la mer, ville illustre, qui as été puissante sur la mer, avec tes habitants que tous redoutaient? 18 Désormais les vaisseaux seront frappés de stupeur au jour de ton effroi, et les îles seront troublées dans la mer, parce que personne ne sort de toi.
+
+<span class="bible-note">Note : </span> Éz. 26, 18 : Personne, etc. ; parce que tu es déserte, sans habitants.
+
+
+19 Parce que voici ce que dit le Seigneur Dieu : Lorsque j'aurai fait de toi une ville désolée comme les cités qui ne sont pas habitées, et que j'aurai amené sur toi l'abîme, et que les grandes eaux t'auront couverte ;
+
+<span class="bible-note">Note : </span> Éz. 26, 19 : Que j’aurai amené, etc. C’est une figure de la multitude des troupes de Nabuchodonosor. Les armées sont souvent représentées dans l’Ecriture sous l’image des flots de la mer, des grandes eaux.
+
+20 Et que je t'aurai précipitée avec ceux qui descendent dans la fosse vers le peuple éternel, et que je t'aurai placée dans une terre très profonde, comme les solitudes anciennes, avec ceux qui sont conduits dans la fosse, afin que tu ne sois pas habitée; mais lorsque j'aurai établi ma gloire dans la terre des vivants,
+
+<span class="bible-note">Note : </span> Éz. 26, 20 : La fosse (lacum) ; le sépulcre, le tombeau. ― Le peuple éternel ; les morts destinés à des supplices éternels. ― Une terre très profonde (terra novissima), très cachée ; ce qui peut s’entendre de l’enfer. ― Les solitudes anciennes ; les ruines séculaires dont il ne reste plus de traces. ― Que j’aurai, etc. Lorsque j’aurai rétabli Israël dans sa première gloire. ― La terre des vivants. La terre d’Israël est ainsi appelée, soit parce que le vrai Dieu, le Dieu vivant y était adoré, soit parce que les justes qui y étaient ensevelis devaient en leur temps être rendus à la vie éternelle.
+
+21 Je te réduirai à rien, et tu ne seras plus ; et on te cherchera, et on ne te trouvera plus jamais, dit le Seigneur Dieu.
+

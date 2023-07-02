@@ -1,0 +1,38 @@
+# Chapitre 22
+
+David prépare toutes les choses nécessaires pour bâtir le temple du Seigneur.
+Il ordonne à Salomon et aux princes d’Israël de s’employer à cette entreprise.
+
+***
+
+1 Et David dit : C'est la maison de Dieu, et c'est l'autel pour l'holocauste d'Israël.
+
+<span class="bible-note">Note : </span> I Par. 22, 1 : David, ayant vu le feu du ciel consumer l’holocauste (voir 1 Paralipomènes, 21, 26) fut persuadé que Dieu avait choisi ce lieu pour qu’il y élevât un autel à la gloire de son nom.
+
+
+2 Et il ordonna qu'on assemblât tous les prosélytes de la terre d'Israël, et il prit parmi eux des tailleurs de pierre, pour tailler des pierres et les polir, afin que la maison de Dieu fût bâtie.
+
+<span class="bible-note">Note : </span> I Par. 22, 2 : Les prosélytes ; c’est-à-dire les Chananéens que les Israélites avaient conservés parmi eux, à la condition qu’ils renonceraient à l’idolâtrie, et qu’ils les serviraient.
+
+3 David prépara aussi beaucoup de fer pour les clous des portes et pour les gonds et joints, et un poids d'airain innombrable. 4 On ne pouvait de même estimer les bois de cèdre que les Sidoniens et les Tyriens avaient apportés à David. 5 Et David dit : Salomon, mon fils, est un enfant très jeune et délicat; et la maison que je veux bâtir au Seigneur doit être telle, qu'on en parle dans tous les pays : je lui préparerai donc toutes les choses nécessaires. Et c'est pour ce motif qu'avant sa mort il prépara toutes les dépenses.
+
+
+6 Et il appela Salomon, son fils, et lui ordonna de bâtir une maison au Seigneur Dieu d'Israël. 7 David dit donc à Salomon : Mon fils, il a été dans ma volonté de bâtir une maison au nom du Seigneur mon Dieu; 8 Mais la parole du Seigneur s'est fait entendre à moi, disant : Tu as versé beaucoup de sang, et tu as combattu un grand nombre de combats : tu ne pourras pas bâtir une maison à mon nom, tant de sang ayant été versé devant moi. 9 Un fils qui te naîtra sera un homme très tranquille ; car je le mettrai en repos du côté de tous ses ennemis d'alentour; et pour ce motif il sera appelé Pacifique; et je donnerai en Israël paix et repos durant tous ses jours.
+
+<span class="bible-note">Note : </span> I Par. 22, 9 : Il sera appelé Pacifique. C’est la signification du nom de Salomon.
+
+10 C'est lui qui bâtira une maison à mon nom; lui sera mon fils, et moi, je serai son père, et j'affermirai le trône de son royaume sur Israël pour toujours.
+
+<span class="bible-note">Note : </span> I Par. 22, 10 : Voir 2 Rois, 7, 13-14 ; 3 Rois, 5, 5 ; Hébreux, 1, 5.
+
+11 Maintenant donc, mon fils, que le Seigneur soit avec toi, prospère, et bâtis une maison au Seigneur ton Dieu, comme il l'a dit de toi. 12 Que le Seigneur te donne aussi la sagesse et l'intelligence, afin que tu puisses régir Israël et garder la loi du Seigneur ton Dieu ; 13 Car tu pourras profiter, alors que tu garderas les commandements et les ordonnances que le Seigneur a prescrit à Moïse d'enseigner à Israël : fortifie-toi, et agis courageusement; ne crains point, et ne t'épouvante pas. 14 Voilà que moi, dans ma pauvreté, j'ai préparé, pour les dépenses de la maison du Seigneur, cent mille talents d'or et un million de talents d'argent ; mais il n'y a pas de poids pour l'airain et pour le fer; car la quantité surpasse tout calcul : j'ai préparé des bois et des pierres pour tous les usages.
+
+<span class="bible-note">Note : </span> I Par. 22, 14 : Le talent d’or valait à peu près 6 306 francs et le talent d’argent environ 4 414 francs 50 centimes (en 1900).
+
+15 Tu as aussi un grand nombre d'ouvriers, de tailleurs de pierres, de maçons, et des ouvriers en bois et de tous les métiers, très habiles à faire des ouvrages16 En or, en argent, en airain et en fer, qui sont sans nombre. Lève-toi donc, et fais, et le Seigneur sera avec toi.
+
+<span class="bible-note">Note : </span> I Par. 22, 16 : Qui sont sans nombre ; c’est-à-dire dont la quantité est innombrable. La Vulgate porte littéralement : duquel (fer) il n’est pas de nombre. Dans le sens grammatical, le pronom relatif se rapporte seulement à fer, qui précède immédiatement ; mais, dans le sens logique, il se rapporte aussi à airain (voir verset 14), et même, selon le texte hébreu, aux mots or et argent.
+
+
+17 David ordonna aussi à tous les princes d'Israël d'aider Salomon, son fils. 18 Vous voyez, dit-il, que le Seigneur votre Dieu est avec vous, et qu'il vous a donné le repos alentour, qu'il a livré tous vos ennemis en vos mains, et que la terre est soumise devant le Seigneur et devant son peuple. 19 Disposez donc vos cœurs et vos âmes à chercher le Seigneur votre Dieu : levez-vous, et bâtissez le sanctuaire au Seigneur Dieu, afin que l'arche de l'alliance du Seigneur et les vases consacrés au Seigneur soient transportés dans la maison qui sera bâtie au nom du Seigneur.
+

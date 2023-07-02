@@ -1,0 +1,38 @@
+! XTerm resources
+!
+! Remember to run `xrdb < .Xresources` after changing anything.
+! Mouse selection: Shift+Mouse
+
+xterm*loginShell: true
+xterm*visualBell: false
+
+! Dont automatically jump to the bottom on output, but do on keypress.
+!XTerm*scrollTtyOutput:          false
+!XTerm*scrollKey:                true
+XTerm*scrollBar:                false
+!XTerm*eightBitInput:            false
+
+! Fonts
+XTerm*vt100.faceName:           xft:Consolas:size=11:antialias=true:style=Bold
+
+! Terminal Colors
+XTerm*vt100.background:     #000000
+XTerm*vt100.foreground:    #80FF80
+!XTerm*vt100.foreground:    #FFD700
+!XTerm*cursorColor:          #ffffff
+
+! Bold items to be in bright white.
+XTerm*veryBoldColors:       4
+XTerm*colorBDMode:          true
+XTerm*colorBD:              #ffffff
+XTerm*colorRV:              #ffffff
+
+! I can see a small line between box characters, this fixes it.
+XTerm*forceBoxChars:        true
+XTerm*vt100.scaleHeight:    1.04
+
+Nsxiv*window.background: 	black
+Nsxiv*bar.foreground:		white
+
+*Xcursor.size:		40	
+*Xcursor.theme:		Adwaita

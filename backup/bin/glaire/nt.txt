@@ -1,0 +1,29 @@
+matthieu https://www.recatho.com/sainte-bible/glaire-et-vigouroux/evangile-selon-saint-matthieu Matthieu
+marc https://www.recatho.com/sainte-bible/glaire-et-vigouroux/evangile-selon-saint-marc Marc
+luc https://www.recatho.com/sainte-bible/glaire-et-vigouroux/evangile-selon-saint-luc Luc
+jean https://www.recatho.com/sainte-bible/glaire-et-vigouroux/evangile-selon-saint-jean Jean
+actes https://www.recatho.com/sainte-bible/glaire-et-vigouroux/actes-des-apotres Actes-des-Apôtres
+romains https://www.recatho.com/sainte-bible/glaire-et-vigouroux/epitre-de-saint-paul-aux-romains Romains
+1-corinthiens https://www.recatho.com/sainte-bible/glaire-et-vigouroux/premiere-epitre-de-saint-paul-aux-corinthiens 1-Corinthiens
+2-corinthiens https://www.recatho.com/sainte-bible/glaire-et-vigouroux/deuxieme-epitre-de-saint-paul-aux-corinthiens 2-Corinthiens
+galates https://www.recatho.com/sainte-bible/glaire-et-vigouroux/epitre-de-saint-paul-aux-galates Galates
+ephesiens https://www.recatho.com/sainte-bible/glaire-et-vigouroux/epitre-de-saint-paul-aux-ephesiens Ephésiens
+philippiens https://www.recatho.com/sainte-bible/glaire-et-vigouroux/epitre-de-saint-paul-aux-philippiens Phlippiens
+colossiens https://www.recatho.com/sainte-bible/glaire-et-vigouroux/epitre-de-saint-paul-aux-colossiens Colossiens
+1-thessaloniciens https://www.recatho.com/sainte-bible/glaire-et-vigouroux/premiere-epitre-de-saint-paul-aux-thessaloniciens 1-Thessaloniciens
+2-thessaloniciens https://www.recatho.com/sainte-bible/glaire-et-vigouroux/deuxieme-epitre-de-saint-paul-aux-thessaloniciens 2-Thessaloniciens
+1-timothee https://www.recatho.com/sainte-bible/glaire-et-vigouroux/premiere-epitre-de-saint-paul-a-timothee 1-Timothée
+2-timothee https://www.recatho.com/sainte-bible/glaire-et-vigouroux/deuxieme-epitre-de-saint-paul-a-timothee 2-Timothée
+tite https://www.recatho.com/sainte-bible/glaire-et-vigouroux/epitre-de-saint-paul-a-tite Tite
+philemon https://www.recatho.com/sainte-bible/glaire-et-vigouroux/epitre-de-saint-paul-a-philemon Philémon
+hebreux https://www.recatho.com/sainte-bible/glaire-et-vigouroux/epitre-de-saint-paul-aux-hebreux Hébreux
+jacques https://www.recatho.com/sainte-bible/glaire-et-vigouroux/epitre-de-saint-jacques Saint-Jacques
+1-pierre https://www.recatho.com/sainte-bible/glaire-et-vigouroux/premiere-epitre-de-saint-pierre 1-Pierre
+2-pierre https://www.recatho.com/sainte-bible/glaire-et-vigouroux/deuxieme-epitre-de-saint-pierre 2-Pierre
+1-jean https://www.recatho.com/sainte-bible/glaire-et-vigouroux/premiere-epitre-de-saint-jean 1-Jean
+2-jean https://www.recatho.com/sainte-bible/glaire-et-vigouroux/deuxieme-epitre-de-saint-jean 2-Jean
+3-jean https://www.recatho.com/sainte-bible/glaire-et-vigouroux/troisieme-epitre-de-saint-jean 3-Jean
+jude https://www.recatho.com/sainte-bible/glaire-et-vigouroux/epitre-de-saint-jude Jude
+apocalypse https://www.recatho.com/sainte-bible/glaire-et-vigouroux/livre-de-l-apocalypse Apocalypse
+
+

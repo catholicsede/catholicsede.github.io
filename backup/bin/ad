@@ -1,0 +1,30 @@
+#!/bin/ksh
+
+ROOT=/mnt/disk/adblock/data
+rm /mnt/disk/adblock/blacklist
+resp=n
+echo -n 'Download data? y (n) '
+read resp
+
+for file in phishing publicite marketingware shopping social_networks; do
+	if [[ $resp == "y" ]]; then
+		ftp -o $ROOT'/'$file'.tar.gz' 'http://dsi.ut-capitole.fr/blacklists/download/'$file'.tar.gz'
+		tar -C $ROOT -xzf $ROOT'/'$file'.tar.gz'
+		rm $ROOT'/'$file'.tar.gz'
+	fi
+	cat $ROOT'/'$file'/domains' | awk '/[a-z]+/ {
+		print "local-zone: \"" $1 "\" redirect";
+		print "local-data: \"" $1 " A 127.0.0.1\"";
+	}' >> /mnt/disk/adblock/blacklist
+done
+
+ed -s /mnt/disk/adblock/blacklist <<EOF
+	H
+	g/leboncoin\.fr/ d
+	g/abebooks\.fr/ d
+	g/reddit/ d
+	g/leroymerlin/ d
+	g/idf\.looting\.uk/ d
+	w
+	q
+EOF

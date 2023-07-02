@@ -1,0 +1,7 @@
+#env
+LESS = I -M +Gg
+
+#command
+h prev-file 
+l next-file 
+d remove-file

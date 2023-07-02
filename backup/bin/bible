@@ -1,0 +1,28 @@
+#!/bin/ksh
+
+# Run "bible" without any argument and it will call "bi".
+
+ROOT=$HOME/ksh/glaire
+
+cat $ROOT/at.txt | awk 'BEGIN {
+	FS = " ";
+	root = "/home/jonathan/ksh/glaire/data";
+	num = "";
+}
+{
+	if ($2) {
+		num = NR;
+		if (NR < 10) {
+			num = "0" num; 
+		}
+		print num "-" $1;
+		system("mkdir -p " root "/" num "-" $1);
+		system("w3m -dump -cols 9999 > " root "/raw.tmp " $2);
+		gsub(/-/, " ", $3);
+		system("echo " $3 " > " root "/" num "-" $1 "/index.md");
+		system("bi " root "/raw.tmp " num "-" $1);
+		system("mv " root "/chap* " root "/" num "-" $1 "/");
+	}
+}'
+
+

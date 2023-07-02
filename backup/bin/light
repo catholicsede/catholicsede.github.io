@@ -1,0 +1,6 @@
+#!/bin/ksh
+
+xrandr --output LVDS-1 --brightness $1 --gamma 1:1:0.3
+
+
+

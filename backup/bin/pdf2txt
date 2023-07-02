@@ -1,0 +1,7 @@
+#!/bin/ksh
+
+echo '--> '$1
+
+convert -density 300 $1 -depth 8 -strip -background white -alpha off /tmp/out.tiff 
+
+tesseract -l fra /tmp/out.tiff $(echo $1 | sed -E 's/\.pdf//') 
