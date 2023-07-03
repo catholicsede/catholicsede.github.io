@@ -3,9 +3,12 @@
 if [[ $(whoami) != 'root' ]]; then echo 'Must be root.'; exit; fi
 
 rcctl set apmd flags -L -z 15
-rcctl {enable, start} apmd
-rcctl {enable, start} obsdfreqd
-rcctl {enable, start} httpd
+rcctl enable apmd
+rcctl start apmd
+rcctl enable obsdfreqd
+rcctl start obsdfreqd
+rcctl enable httpd
+rcctl start httpd
 
 ed /var/unbound/etc/unbound.conf <<EOF
 	H
