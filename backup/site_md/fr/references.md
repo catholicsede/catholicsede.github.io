@@ -28,6 +28,8 @@ Borne abbé. (1825). Abrégé d'histoire universelle, divisé par siècles, depu
 
 Bouix Marcel père. (1857). Oeuvres de sainte Térèse, traduites d'après les manuscrits originaux. Julien, Lanier et Cte, éditeurs, second édition.
 
+Bouix Marcel père. (1862). Oeuvres spirituelles de Saint Pierre d'Alcantara, pr�traduit en français par le P. Marcel Bouix de la Compagnie de Jésus. Librairie catholique de Périsse Frères.
+
 Caprara Card. J. B légat, Sala J. A. secrétaire de la Légation Apostolique. (1802). Convention entre sa sainteté Pie VII, et le gouvernement français; Articles organiques et Bulle de ratification de la Convention, Décret pour la nouvelle circonscription des Archevêchés et Evêchés, et Indult pour la réduction des Fêtes.
 
 Carmélites du premier monastère à Paris. (1894). Mémoire sur la fondation, le gouvernement et l'observance des carmélites déchaussées. Dubois-Poplimont, imprimeur-éditeur.
@@ -226,6 +228,8 @@ Réaume abbé. (1865). Petit rituel ou guide pratique des paroissiens dans la r�
 S. Pie X pape, Benoît XV pape. (1943). Diurnal monastique (ordre de S. Benoît), reconnu et approuvé par les papes Pie V, Urbain VIII et Léon XIII, réformé par l'autorité des papes Pie X, Benoît XV, à l'usage des fidèles qui désirent suivre le rit monastique.
 
 S. Pie X pape. (1903). Actes de S. S. Pie X, encycliques, motu proprio, brefs, allocutions, etc. Maison de la bonne presse, Paris.
+
+S. Pie X pape. (1942). Brevarium Romanum, ex decreto Sacrosanti Concilii Tridentini, restitutum S. Pii V. Pontificis Maximi, jussu editum Aliorumque Pontificum, Cura recognitum Pii Papae X, auctoritate reformatum, editio juxta typicam amplificata, Romae, Tornaci, Parisiis, Typis Societatis S. Joannis Evangelistae, Desclée & Socii, S. Sedi Apostolicae et S. Rituum Congreg. Typographi. 
 
 Saint François de Sales. (1895). Oeuvres complètes de saint François de Sales, évêque et prince de Genève. Berche et Tralin, éditeurs. Imprimerie Contant-Laguerre, Bar-Le-Duc.
 

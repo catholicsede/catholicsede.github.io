@@ -222,8 +222,8 @@ case $1 in
 		cp $HOME/.ebrc $DST/backup/config/
 		cp $HOME/.lesskey $DST/backup/config/
 		rsync -rtv --delete $DST/backup/ /mnt/disk/backup/
-		cp -r $HOME/git/bin/* /mnt/disk/backup/bin/
-		cp -r $HOME/.ssh /mnt/disk/backup/;;
+		cp -r $HOME/.ssh /mnt/disk/backup/
+		rsync -rtv --delete $HOME/git/ /mnt/disk/mhfm/;;
 	rm)
 		echo -n "Delete content of $DST? y [n]: "
 		read del

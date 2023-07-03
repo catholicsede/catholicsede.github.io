@@ -1,7 +1,9 @@
 #env
-LESS = I -M +Gg
+LESS = -i -m 
 
 #command
 h prev-file 
 l next-file 
 d remove-file
+e examine
+f status

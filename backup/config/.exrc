@@ -1,6 +1,7 @@
 set tabstop=4
 set noflash
 map ;x :!xrdb .Xresources
+map ;l :!lesskey .lesskey
 map ;p :r !xclip -o
 map ;y :.w !xclip
 map ;yy :.w !xclip -selection clipboard

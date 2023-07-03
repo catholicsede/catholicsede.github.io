@@ -6,6 +6,7 @@ export ENV=$HOME/.kshrc
 PATH=$HOME/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/X11R6/bin:/usr/local/bin:/usr/local/sbin:$HOME/.local/bin:$HOME/git/bin
 export PATH HOME TERM
 export LC_CTYPE=en_US.UTF-8
+export LANG=en_US.UTF-8
 export EDITOR='ed -p*'
 export BROWSER=w3m
 export RTV_EDITOR=$EDITOR
