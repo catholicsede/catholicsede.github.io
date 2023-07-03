@@ -212,8 +212,6 @@ case $1 in
 		rsync -av --delete $HOME/bin/ $DST/backup/bin/
 		cp /etc/man.conf $DST/backup/config/
 		cp /etc/httpd.conf $DST/backup/config/
-		cp /etc/inetd.conf $DST/backup/config/
-		cp /etc/relayd.conf $DST/backup/config/
 		cp $HOME/.Xresources $DST/backup/config/
 		cp $HOME/.exrc $DST/backup/config/
 		cp $HOME/.profile $DST/backup/config/
