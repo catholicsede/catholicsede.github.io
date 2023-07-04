@@ -32,7 +32,15 @@ Pape Pie XI, Mortalium animos, 1928 :
 
 [^1]: Consulté le 13 avril 2023. [vatican.va](https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html)
 
-<span id="salut"></span>
+
+
+
+
+
+
+
+
+<span id="eglise"></span>
 
 ## Vatican II nie l'existence de l'Eglise catholique
 

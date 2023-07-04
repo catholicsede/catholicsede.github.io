@@ -1,4 +1,4 @@
-# Oraison et méditation
+# Traité de l'oraison et de la méditation
 
 Par Saint Pierre d'Alcantara.
 

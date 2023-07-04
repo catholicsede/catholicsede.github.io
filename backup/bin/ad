@@ -18,13 +18,7 @@ for file in phishing publicite marketingware shopping social_networks; do
 	}' >> /mnt/disk/adblock/blacklist
 done
 
-ed -s /mnt/disk/adblock/blacklist <<EOF
-	H
-	g/leboncoin\.fr/ d
-	g/abebooks\.fr/ d
-	g/reddit/ d
-	g/leroymerlin/ d
-	g/idf\.looting\.uk/ d
-	w
-	q
-EOF
+#ed -s /mnt/disk/adblock/blacklist <<EOF
+#	H
+#	wq
+#EOF

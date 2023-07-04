@@ -44,9 +44,9 @@ Et à tous mes Frères, Clercs et Lais, je commande fermement par obéissance, q
 
 "Et quiconque observera ces choses, qu'il soit rempli au Ciel de la bénédiction du Très-haut Père céleste, et en terre qu'il soit rempli de la bénédiction de son bien-aimé Fils, avec le très-saint Esprit Consolateur, auquel est honneur et gloire maintenant et à jamais. 
 
-Et moi Frère François votre petit serviteur, autant comme je le puis, je vous confirme, dedans et dehors, cette très-sainte Bénédiction, laquelle vous ayez avec toutes les vertus des cieux, et tous les Saints, à présent, et en tous les siécles des siècles. Ainsi soit-il." [^2] 
+Et moi Frère François votre petit serviteur, autant comme je le puis, je vous confirme, dedans et dehors, cette très-sainte Bénédiction, laquelle vous ayez avec toutes les vertus des cieux, et tous les Saints, à présent, et en tous les siécles des siècles. Ainsi soit-il." [^1] 
 
-[^2]: Périsse 1837, pp. 26-37.
+[^1]: Périsse 1837, pp. 26-37.
 
 ## Latin
 
@@ -88,7 +88,7 @@ Et omnibus Fratribus meis Clericis et Laicis praecipio firmiter per obedientiam,
 
 Et quicumque haec observaverit, in coelo repleatur benedictione Altissimi Patris coelestis, et in terra repleatur benedictione dilecti Filii sui, cum sanctissimo Spiritu Paraclito et omnibus Virtutibus coelorum, et omnibus Sanctis. 
 
-Et ego Frater Franciscus, parvulus vester, et servus, quantumeumque possum, confirmo vobis intus et foris istam sanctissimam benedictionem, quam habeatis cum omnibus virtutibus caelorum, et omnibus Sanctis nunce et in saecula saeculorum. Amen." [^1]
+Et ego Frater Franciscus, parvulus vester, et servus, quantumeumque possum, confirmo vobis intus et foris istam sanctissimam benedictionem, quam habeatis cum omnibus virtutibus caelorum, et omnibus Sanctis nunce et in saecula saeculorum. Amen." [^2]
 
-[^1]: Curia 1986, t. 2, pp. 345-349.
+[^2]: Curia 1986, t. 2, pp. 345-349.
 

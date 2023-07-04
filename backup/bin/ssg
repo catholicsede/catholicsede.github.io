@@ -218,6 +218,7 @@ case $1 in
 		cp $HOME/.tmux.conf $DST/backup/config/
 		cp $HOME/.config/zathura/zathurarc $DST/backup/config/
 		cp $HOME/.cwmrc $DST/backup/config/
+		cp $HOME/.vimrc $DST/backup/config/
 		cp $HOME/.inputrc $DST/backup/config/
 		cp $HOME/.w3m/config $DST/backup/config/w3m.config
 		cp $HOME/.ebrc $DST/backup/config/
@@ -234,10 +235,6 @@ case $1 in
 		fi
 		find $DST/* -not -path '*/\.*' | xargs rm -rf;
 		echo "Content deleted.";;
-	b)
-		$BRO localhost;;
-	e)
-		e $HOME/bin/ssg;;
 	css)
 		cp -r $TMPL/css $DST/;;
 	run)
