@@ -28,6 +28,7 @@
 * [Confession](/fr/spiritualite/par-themes/confession/index.html)
 * [Prières](/fr/spiritualite/par-themes/prieres/index.html)
 * [Calendrier](/fr/calendrier/index.html)
+* [Traité de la dévotion](/fr/spiritualite/par-themes/traite-devotion/index.html) (Par Saint Pierre d'Alcantara)
 
 *Saint Eudes, Contrat de l’homme avec Dieu par le saint Baptême* : “La sainte Eglise catholique n’a jamais souffert et ne souffrira jamais de différentes croyances à l’égard d’aucun article. Sa foi est la même dans tous les temps, dans tous les lieux et dans tous ses vrais enfants. Ainsi sa foi est une, et la seule qui soit véritable. Vous devez être d’autant plus soigneux de conserver cette foi dans toute sa pureté, que sans elle il est impossible de rien faire qui mérite le ciel : *Sine fide imposibile est placere Deo*.
 

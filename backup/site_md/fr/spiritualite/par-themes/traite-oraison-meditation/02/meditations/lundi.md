@@ -1,0 +1,516 @@
+# Lundi
+
+Méditation sur les péchés et sur la connaissance de soi-même.
+
+***
+
+En ce jour vous pourrez vous occuper du souvenir des péchés et de la connaissance de vous-même; la première considération vous montrera combien il y a de maux en vous, et la seconde, que vous ne possédez aucun bien qui ne vienne de Dieu : c'est le moyen d'acquérir l'humilité, mère de toutes les vertus. Pour cela, il faut d’abord arrêter votre pensée sur la multitude des péchés de votre vie passée, spécialement sur ceux que vous avez commis quand vous connaissiez moins votre Dieu. Car si vous faites bien cette revue, vous trouverez qu'ils se sont multipliés au-dessus des cheveux de votre tête, et que vous avez alors vécu comme un païen qui ne sait point ce que c'est que Dieu. Parcourez en effet, mais brièvement, tous les commandements, et les sept péchés capitaux, et vous verrez qu’il n’en est pas un où vous ne soyez tombé plusieurs fois par oeuvre, ou par parole, ou par pensée.
+
+En second lieu, arrêtez votre souvenir sur tous les bienfaits que vous avez reçus de Dieu, et, en parcourant toutes les époques de votre vie, voyez comment vous y avez répondu; car vous devrez en rendre un compte exact au Seigneur. Eh bien, dites-moi maintenant, à quoi avez-vous employé votre enfance ? et votre adolescence ? et votre jeunesse ? et tous les jours, enfin, de votre vie passée ? A quoi avez-vous occupé les sens du corps et les puissances de l’âme que Dieu vous donna pour le connaître et pour le servir ? Quel usage avez-vous fait de vos yeux, si ce n’est pour voir la vanité; de vos oreilles, si ce n’est pour ouir le mensonge; de votre langue, si ce n'est pour la souiller en mille manières par des jurements et des médisances ? Le goût, l'odorat, le tact, à quoi les avez-vous fait servir, si ce n’est à vous procurer des plaisirs et des douceurs sensuels ?
+
+Quel profit avez-vous retiré des sacrements de l'Église, que Dieu institua pour être votre remède ? Comment avez-vous remercié le Seigneur de ses bienfaits ? Comment avez-vous répondu à ses inspirations ? A quoi avez-vous employé la santé, les forces, les talents naturels, les biens de la fortune, les excellentes dispositions qui étaient en vous et les facilités que vous aviez pour bien vivre ? Quel souci avez-vous eu du prochain que Dieu vous a recommandé, et de ces oeuvres de miséricorde qu'il vous a prescrites à son égard ? Que répondrez-vous en ce jour où Dieu, vous faisant comparaître à son tribunal, vous dira : Rends-moi compte de ton administration et des biens que je te confiai; je ne veux plus que tu en sois l'administrateur. O arbre sec, et déjà digne des tourments éternels, que répondrez-vous en ce jour, lorsqu'il vous sera demandé compte de toutes les années, que dis-je ? de toutes les minutes, de tous les instants de votre vie ?
+
+En troisième lieu, pensez aux péchés que vous avez commis et que vous commettez encore depuis que vous avez commencé à connaître Dieu, et vous trouverez que le vieil Adam vit encore en vous par bien des racines et par beaucoup d'anciennes habitudes. Considérez votre peu de respect envers Dieu, combien vous êtes ingrat à ses bienfaits, rebelle à ses inspirations, et paresseux dans les choses de son service; jamais vous ne les faites ni avec la promptitude, ni avec le soin, ni avec la pureté d'intention que vous devriez, mais bien pour des considérations étrangères à Dieu, et pour les intérêts du monde.
+
+Considérez, d'autre part, combien vous êtes dur envers le prochain, et plein de compassion pour vous-même; combien vous êtes ami de votre propre volonté, de votre corps, de votre honneur et de tous vos intérêts. Voyez combien vous êtes encore superbe, ambitieux, colère, emporté, vain, envieux, pétri de malice, esclave de vos aises, changeant, léger, sensuel, ami de vos divertissements, de vos entretiens, de vos rires bruyants, de vos éternelles conversations. De plus, voyez combien vous êtes inconstant dans vos bons propos, inconsidéré dans vos paroles, négligent dans vos oeuvres, lâche et pusillanime pour toute affaire importante et sérieuse.
+
+En quatrième lieu, après avoir considéré sous ce point de vue la multitude de vos péchés, considérez-en la gravité afin de découvrir sous toutes ses faces la grandeur de votre misère. Pour cela, vous devez d'abord peser ces trois circonstances dans les péchés de votre vie passée. Contre qui votre péché a-t-il été commis ? Pour quelle cause, et de quelle manière a-t-il été commis ? Si vous considérez celui contre lequel vous avez péché, vous trouverez que c'est un Dieu dont la bonté et la majesté sont infinies, dont les bienfaits et les miséricordes envers l'homme surpassent les grains de sable de la mer.
+
+Mais pour quelle cause avez-vous péché ? pour un point d'honneur, pour un plaisir qui vous ravale au-dessous de la bête, pour le plus mince intérêt, souvent même sans intérêt, par pure coutume et par mépris de Dieu. Enfin, de quelle manière avez-vous péché ? avec tant de facilité, tant d'audace, avec si peu de scrupule et de crainte !... quelquefois même vous l'avez fait avec autant de facilité et de plaisir que si le Dieu outragé par vous était un Dieu de bois, qui ignore et ne voit pas ce qui se passe dans le monde. Était-ce là l'honneur qui était dû à une si haute majesté ? était-ce là la manière de reconnaître de si grands bienfaits ? C'est donc ainsi que vous payez ce sang précieux qu'il a répandu sur la croix, et ces coups de verges, et ces soufflets qu'il a reçus pour vous ? Infortuné, que ta misère est grande, et par ce que tu as perdu, et beaucoup plus encore par ce que tu as fait, et infiniment plus encore par ton insensibilité, si, malgré tout cela, tu ne comprends pas l'excès de ton malheur !
+
+Après cette considération, il sera très-utile d'arrêter quelque temps la pensée sur votre néant; creusant cette vérité, que de vous-même vous n'avez rien en propre que le néant et le péché, que tout le reste vient de Dieu. Il est clair que tous les biens de la nature et tous les biens de la grâce, qui sont les plus grands, lui appartiennent en propre, parce que c'est de lui que vient la grâce de la prédestination, source de toutes les autres grâces; parce que c'est de lui que vient encore et la grâce de la vocation. et celle de la persévérance, et celle de la vie éternelle. Qu’avez-vous donc en propre ? de quoi pouvez-vous donc vous glorifier, si ce n’est du néani et du péché ? Que votre pensée s'arrête ainsi quelque temps sur la vue de l’un et de l’autre; ce néant, ce péché seuls, prenez-les à votre compte, et tout le reste, mettez-le sur le compte de Dieu; vous verrez par là d’une manière claire et palpable qui vous êtes et qui il est; combien vous êtes pauvre et combien il est riche; par conséquent combien peu vous devez vous confier en vous-même, vous estimer vous-même, et combien vous devez vous confier en lui, l'aimer, et vous glorifier en lui.
+
+Après avoir considéré les divers points que je viens de dire, ayez de vous-même les plus bas sentiments qu'il vous sera possible. Pensez que vous n'êtes qu'un roseau sauvage, jeté à tous les vents, sans poids, sans vertu, sans rien de ferme, sans stabilité et sans aucune consistance. Pensez que vous êtes un Lazare mis dans le tombeau depuis quatre jours; que vous n'êtes plus qu'un cadavre infect, horrible à la vue, rempli de vers, en sorte que tous ceux qui passent se détournent d'horreur pour ne pas respirer ces souffles mortels, et pour ne pas voir un si hideux spectacle. Imaginez-vous que c’est là l'odeur qui s'exhale de vous devant Dieu et devant ses anges, et tenez-vous pour indigne de lever les yeux au ciel, indigne que la terre vous porte, que les créatures vous servent, indigne même du pain que vous mangez et de l’air que vous respirez. Jetez-vous, comme cette pécheresse publique, aux pieds du Sauveur, et, le visage couvert de confusion, avec cette honte qu'éprouverait une femme en présence d'un époux dont elle aurait trahi l'honneur, le coeur brisé par la douleur et le repentir, demandez-lui pardon de vos égarements; conjurez-le au nom de son infinie bonté et de sa miséricorde de daigner vous recevoir de nouveau dans sa maison.
+
+
+## Sainte Térèse sur le même sujet
+
+Ce que l'ame, si belle par la grâce, devient par le péché mortel; lumière que Dieu donna à la sainte sur ce sujet; le péché mortel, l'unique mal a craindre au monde.
+
+ICI
+Mais. avant d'aller plus loin, considérez, je vous prie, quel spectacle doit offrir ce château si resplendissant, cette perle orientale, cet arbre de vie planté au milieu des eaux mêmes de la vie qui est Dieu, cette âme enfin si belle par les traits de la ressemblance divine, quand, de cette hauteur, elle tombe dans un péché mortel. Non, il n'est point de ténèbres qui approchent de ses ténèbres; imaginez ce qu'il y a de plus obscur et de plus noir, cette âme va de beaucoup au delà. D'où vient un tel change- ment? Il me suffit d'en signaler une seule cause : c'est que ce même Soleil qui lui communiquait tant de splendeur et de beauté, demeure éclipsé pour elle; et quoiqu'il soit encore dans le centre de cette âme, elle ne puise pas plus de vie en lui que s’il était absent, elle pourtant qui, de sa nature, était aussi capable de jouir de Dieu que le cristal de re- cevoir les rayons de l'astre du jour. Dans cet étal de péché rhortel, rien ne lui profite; et tant qu'elle y persévère, toutes ses bonnes oeuvres ne sont d’au- cun mérite pour le salut, parce qu'elles ne procè- dent plus de ce principe qui fait que notre vertu est vertu, c'est-à-dire de Dieu. En se séparant de lui, l’âme ne peut être agréable à ses yeux. D'ailleurs, son dessein, quand elle commet un péché mortel, n'est pas de contenter Dieu, mais de faire plaisir au démon. Or, comme celui-ci n’est que ténèbres, la pauvre âme ne fait plus avec lui qu’une même nuit ténébreuse.
+
+Je connais une personne (1) à qui Notre-Seigneur
+daigna faire voir l’état d’une âme qui est en péché
+mortel. Elle assure que si l'on savait ce que c’est,
+nul ne pourrait se résoudre à tomber dans ce mal-
+heur, dût-il, pour en éviter les occasions, s’exposer
+aux plus grandes peines qu'on puisse imaginer. Cette
+vision alluma dans le coeur de cette personne un
+désir extrême que tout le monde comprit une si
+importante vérité. Puisse, mes filles, le même zèle
+
+{4} La sainte parle ici d'elle-même.
+22 TRAITÉ DE L'ORAISON ET DE LA MÉDITATION.
+
+brûler vos âmes, et vous porter à adresser à Dieu
+
+les plus ferventes prières pour ceux qui sont dans
+un si lamentable état! Les infortunés! ils ne sont,
+
+eux el leurs oeuvres, qu'obscurité et ténèbres. Quel
+
+contraste avec l'âme en état de grâce! Cette âme
+
+ressemble à une source très-claire qui communique
+
+aux ruisseaux formés d'elle toute sa limpidité; ses
+
+oeuvres procèdent de la fontaine de vie, et voilà
+
+pourquoi elles sont si agréables aux yeux de Dieu et
+
+des hommes; plantée comme un arbre au milieu de
+
+cetie fontaine, c’est de ses eaux, et non d’ailleurs,
+
+qu'elle tire une fraîcheur toujours nouvelle, et la
+
+séve qui lui fait produire de si beaux fruits. Tout
+
+au contraire, l'âme qui, par sa faute, s'éloigne de
+
+cette source si pure, et qui se transplante dans une .
+autre dont les eaux sont horriblement noires et in-
+fectes, ne produit rien qui ne participe de la corrup-
+tion de cette source maudite, et qui n’en porte l’em-
+preinte et la souillure.
+
+Il faut remarquer ici que Dieu étant cette fontaine
+de vie et ce resplendissant soleil qui demeure au
+centre de l'âme, rien n’est capable de ternir sa
+beauté, ni d’obscurcir l'éclat de sa lumière. Mais
+l'âme ne laisse pas d’être toute ténébreuse par le
+péché; car le péché arrête et intercepte tout rayon
+du Soleil de justice. de même qu'un voile très-noir,
+MÉDITATIONS, SÉRIE I. — LUNDI. 23
+
+placé sur un cristal exposé au soleil, l'empêche de
+recevoir et de réfléchir la lumière de cet astre.
+
+O âmes rachetées par le sang de Jésus-Christ,
+comprenez ce que vous êtes devenues par le péché,
+et ayez pitié de vous-mêmes! A la vue d’une si pro-
+fonde misère, pourriez-vous ne pas faire tous vos
+efforts pour arracher ce voile horrible collé sur vous?
+Songez que si la mort vous surprend dans cet élat,
+il ne vous sera plus donné de voir la lumière du
+Soleil de vie. O Jésus! quel spectacle que de voir
+une âme séparée de cette lumière! Que sont deve-
+nues les demeures auparavant si belles du château?
+Quel trouble s’est emparé des sens qui font là leur
+séjour! Quant aux puissances de l’âme qui étaient
+préposées à l'administration et au gouvernement de
+ce château intérieur, qui pourrait peindre leur
+aveuglement et leur désordre? Enfin, le sol où l'ar-
+bre est’ planté étant le démon même, quels fruits
+cet arbre peut-il produire? Un homme de Dieu me
+disait un jour que quelque chose que fit celui qui
+est en péché mortel, il ne s’en étonnait pas, mais :
+bien de ce qu'il n’en faisait pas davantage. Daigne le
+Seigneur, par sa miséricorde, nous délivrer d’un si
+grand mal! Il n’est rien dans cette vie qui mérite ce
+nom, si ce n’est le péché, puisqu'il traîne à sa suite
+des maux dont l'éternité ne doit point voir la fin.
+24 TRAITÉ DE L'ORAISON ET DE LA MÉDITATION.
+
+C’est là la seule chose que nous devons craindre, et
+dont nous devons demander à Dieu, dans nos orai-
+sons, de nous préserver. Car si le Seigneur ne garde
+la cité, c’est en vain que nous travaillerions à la gar-
+der, n'étant par nous-mêmes que faiblesse et
+néant.
+
+Cette personne (1), à qui Notre-Seigneur avait
+‘ montré ce qu'est une âme en état de péché mortel,
+disait qu’elle avait retiré un double avantage de cette
+vision. D'abord, elle en conçut une très-vive crainte
+d'offenser Dieu, en sorte qu'elle le conjurait sans
+cesse de la préserver d’une chute qui entraînait des
+maux si terribles. En second lieu, c'était pour elle
+un miroir d’humilité, où elle découvrait que tout le
+bien que nous faisons découle, non de nous comme
+de son principe, mais de cette fontaine où est planté
+l’arbre de nos âmes, et de ce soleil dont la chaleur
+féconde nos oeuvres. Cette vérité, ajoutait-elle, était
+si vivement empreinte dans son âme, que, lorsqu'elle
+faisait ou voyait faire à un autre quelque bonne
+action, elle la rapportait aussitôt à Dieu comme à
+son principe, connaissant clairement que nous ne
+pouvons rien sans son secours. De là venait que, par
+un élan subit, elle s'élevait vers Dieu pour le bénir
+et le louer de toute espèce de bien, et que, s’oubliant
+
+(1) La sainie elle-même.
+MÉDITATIONS, SÉRIE 1. — LUNDI. 25
+elle-même dans ce qu’elle faisait pour sou service,
+elle était uniquement occupée de lui. .
+
+O mes sœurs, qu’il serait utilement employé, le
+temps que nous aurions mis, vous à lire ces pages
+sur les effets du péché, et moi à les écrire, si nous
+en retirions les deux grands avantages que je viens
+de signaler! (Château intérieur, chap. 11.)
+
+[I
+
+L'AME VIVANT MIROIR, OBSCURCI PAR LE PÉCHÉ.
+
+Un jour. étant profondément recueillie, je vis
+tout à coup mon àme sous la forme d’un clair mi-
+roir, sans revers, sans côtés, sans haut ni bas, mais
+resplendissant de toutes parts. Au centre m’appa-
+raissait Notre-Seigneur Jésus-Christ, comme il le
+fait d'ordinaire; je le voyais néanmoins dans toutes
+les parties de mon âme, comme s'il y était réfléchi, .
+et ce miroir de mon âme, à son tour, je ne puis dire
+comment, il se gravait tout entier dans Notre-Sei-
+gneur par une communicatign ineffable, mais toute
+pleine d'amour. Je puis affirmer que cette vision me
+fut très-avantageuse, et qu’elle me fait encore le plus
+grand bien, toutes les fois que je me la rappelle,
+principalement après la communion. A l’aide de la
+lumière qui me fut donnée, je vis comment, dès que
+l'âme commet un péché mortel, ce miroir se couvre
+d’un grand nuage, et demeure extrêmement noir;
+en sorte que Notre-Seigneur ne peut s’y représenter
+MÉDITATIONS, SÉRIE L — LUNDI. 27
+
+ni yêtre vu, quoiqu'il soit toujours présent comme
+donnant l’être. Quant aux hérétiques, c’est comme
+si le miroir était brisé; malheur incomparablement
+plus affreux que s’il n'était qu'obscurci. Il y a une
+grande différence entre voir cela et le dire; on ne
+peut que difficilement faire comprendre une pareille
+chose. Je le répète, j'en ai retiré les plus précieux
+avantages ; mais que de fois aussi n’ai-je pas été na-
+vrée de douleur, au souvenir de ces offenses par les-
+quelles j’ai si souvent obseurci mon âme, et me suis
+privée de la vue d’un si bon Maitre!
+
+Cette vision est excellente, à mon gré, pour ap-
+prendre aux personnes habituellement recueillies. à
+considérer Notre-Seigneur dans le plus intime de
+leur âme; cette manière est plus attachante et plus
+utile que de le contempler hors de soi, comme je
+l'ai déjà dit ailleurs, d'accord sur ce point avec les
+livres sur l’oraison qui traitent de la manière de
+chercher Dieu. C’est en particulier l'avis du glorieux
+saint Augustin, qui dit de lui-même que cherchant
+Dieu dans les places publiques, dans les plaisirs,
+partout dans cet univers, il ne l'avait trouvé nulle
+part comme au dedans de son coeur. L'avantage
+d'une pareille méthode est visible : elle nous fait
+trouver Dieu en nous-mêmes, sans qu'il soit néces-
+saire de nous élever par la pensée jusqu'au ciel,
+28  TRAITÉ DE L'ORAISON ET DE LA MÉDITATION.
+
+nous épargnant ainsi un effort qui fatigue l'esprit,
+distrait l’âme, et nous fait recueillir moins de
+fruit. (Vie de sainte Térèse écrite par elle-même,
+chap. x.)
+III
+
+EFFET DU PÉCHÉ.
+
+Étant un jour en oraison, il me fut en un instant
+représenté de quelle manière toutes les choses se
+voient et sont contenues en Dieu. Je ne les aperce-
+vais pas dans leurs propres formes, et néanmoins la
+vue que j'en avais était d'une souveraine clarté :
+tenter de la décrire me serait impossible. Elle est
+pourtant restée vivement empreinte dans mon âme.
+C'est une des grâces les plus insignes que le Seigneur
+m'ait faites, et qui m'ont le plus servi à m'humilier
+et à me confondre au souvenir des péchés que j'ai
+commis. Si le Seigneur eût daigné m'accorder plus
+tôt cette lumière, s’il l'eût accordée à ceux qui l'of-
+fensent, jamais ni eux ni moi n'eussions-eu le coeur
+et la hardiesse de l’outrager. Ce spectacle fut bien
+sous mes yeux, mais dans quelle lumière m’appa-
+raissait-il? Je ne saurais le dire. Cependant je devais
+bien alors en saisir quelque chose, puisque je vais
+pouvoir en donner une comparaison. Mais cette vue
+est si subtile et si déliée, que l’entendement ne sau-
+rait l’atteindre. Ou bien, c’est que je ne sais pas me
+30 TRAITE DE L'ORAISON ET DE LA MÉDITATION.
+
+comprendre moi-même dans les visions qui n’of-
+frent à l'âme aucune image, telles qu'il en existe
+saus doute. A moins qu'on ne dise que les puis-
+sances étant alors dans le ravissement, elles ne peu-
+vent hors de là ressaisir la manière dont Dieu leur
+montre les choses, et veut qu'elles en jouissent.
+
+Je dirai donc que la Divinité est comme un dia-
+mant d'une transparence souverainement limpide,
+et beaucoup plus grand que le monde ; ou bien
+comme un miroir semblable à celui où l’âme m'était
+montrée dans la vision précédente : seulement, c'est
+d’une manière incomparablement plus sublime, et
+je sens que je n’ai point de termes pour l'exprimer.
+Chacune de nos actions se voit dans ce diamant,
+parce que rien ne saurait exister en dehors d’une
+grandeur qui enferme tout en soi. Mon étonnement
+fut au comble de voir, dans un espace de temps si
+court , tant de choses représentées dans ce diamant
+admirable: et je ne saurais me souvenir sans une
+extrème douleur des taches affreuses que mes pé-
+chés imprimaient dans cette clarté inénarrablement
+pure. Oui, toutes les fois que ce tableau vient s’of-
+frir à ma pensée, je ne sais comment je n'y suc-
+combe pas. Aussi, après cette vision, j'étais telle-
+ment mouranie de honte, que je ne savais en
+quelque sorte où me mettre. Oh! que ne m'est-il
+MÉDITATIONS, SÉRIE 1. — LUNDI. 31
+
+donné de communiquer une pareille lumière à
+ceux qui commettent des péchés déshonnêtes et
+infâmes , pour leur faire comprendre que leurs at-
+tentats ne sont point secrets, et que Dieu en est
+justement blessé, puisqu'ils sont commis sous ses
+yeux mêmes, et d'une manière si insultante pour
+une si haute Majesté! Je vis à combien juste titre
+on mérite l'enfer pour un seul péché mortel, tant
+est énorme et incompréhensible l’outrage qu'on fait
+à Dieu en le commettant en sa présence, et tant sa
+sainteté infinie repousse de tels actes. C’est aussi ce
+qui fait briller davantage sa miséricorde; car sachant
+que ces vérités sont connues de nous, il ne laisse
+pas de nous souffrir. Je me suis souvent dit : Si une
+telle vision imprime à l'âme tant de terreur, que
+sera-ce au jour du jugement, quand cette Majesté se
+montrera cldirement à nous, et que nous verrons
+pleinement à découvert toutes nos offenses ? O Dieu,
+quel aveuglement a donc été le mien ! Souvent j'ai
+été saisie de frayeur en écrivant ceci. Mon père,
+vous n'en serez point étonné ; ce qui uniquement
+doit vous surprendre , c’est qu'ayant ces lumières,
+et me regardant ensuite moi-même, je puisse encore
+vivre. (Vie de sainte Térèse écrite par elle-même,
+chap. Lx.)
+LV
+
+GRANDEUR DU PÉCHÉ.
+
+Notre-Seigneur se communique à l'âme de bien
+des manières par ces apparitions : il se montre à
+elle tantôt pour la consoler dans ses peines , tantôt
+pour la préparer à quelque grande croix ; ou bien,
+quand il veut prendre ses délices auprès d'elle. et
+qu'elle les prenne auprès de lui. Je ne m'arrêterai
+point à particulariser quelqu'une de ces choses. Mon
+dessein est seulement d'indiquer de mon mieux en
+quoi diffèrent ces visions, et de vous fâire connaître
+la nature et les effets de chacune. A l’aide de cette
+connaissance, vous ne prendrez pas pour des visions
+les chimères que l'imagination pourrait vous repré-
+senter ; et si Dieu daigne se montrer à vous, sachant
+à l'avance que c’est possible, vous n’en serez nitrou-
+blées ni affligées. Car le démon a grand intérêt et
+prend un singulier plaisir à jeter une âme dans la
+tristesse et l'inquiétude, pour l'empêcher de s’occu-
+per tout entière à aimer et à louer Dieu.
+MÉDITATIONS, SÉRIE 1. — LUNDI. 33
+
+Notre-Seigneur se communique à l'âme par d'au-
+tres voies beaucoup plus élevées que celles dont je
+viens de parler, et, à mon avis, moins dangereuses,
+parce que le démon ne saurait les contrefaire. Mais
+ces visions sont si cachées, qu'il est beaucoup plus
+difficile d'en donner une idée que des précédentes.
+
+il arrive que l’âme étant en oraison, et avec une
+entière liberté de ses sens, Notre-Seigneur la fait
+entrer tout à coup dans une extase où il lui découvre
+de grands secrets qu'elle croit voir en Dieu même.
+Quoique j’use de ce terme de voir, l'âme cependant
+ne voit rien, parce que ce n’est pas ici une vision
+imaginaire où la très-sainte humanité de Jésus-Christ
+lui soit représentée. C'est une vision intellectuelle
+qui fait connaître à l'âme de quelle manière toutes
+les choses se voient en Dieu, et comment elles sont
+toutes en lui. Cette vision est très-utile : malgré sa
+. courte durée, qui n’est que d’un moment , elle de-
+meure profondément gravée dans l'esprit, et donne
+une très-grande confusion à l'âme par la manière si
+claire dont elle lui fait voir la grandeur du péché,
+puisque, étant en Dieu ainsi que nous y sommes, ce
+n'est pas seulement en sa présence, mais en lui-
+même que nous le commettons.
+
+Je veux me servir d’une comparaison pour rendre
+
+cette vérité plus sensible. On entend souvent parler
+3
+34  TRAITÉ DE L'ORAISON ET DE LA MÉDITATION.
+
+de la malice du péché; mais hélas ! ou l’on n’y réflé-
+chit point, ou l'on ne veut pas comprendre ; car si .
+l’on voyait clairement l’acte du péché tel qu'il est,
+_ il ne serait pas, ce semble, possible de se porter à
+cet excès d’audace. Supposons que Dieu soit un
+immense et superbe palais qui enferme le monde.
+Cela étant, un pécheur peut-il commettre quelque
+crime hors de ce palais? Non certes. C’est donc en
+Dieu même que se commettent les abominations,
+les turpitudes et les iniquités de tous les pécheurs de
+la terre. Quel effroi cette pensée ne doit-elle pas
+nous inspirer! qu'elle est digne de nos méditations !
+quelle vive lumière elle nous donnera sur l’énormité
+du péché, à nous surtout pauvres ignorants qui la
+comprenons si peu ! Car si cette vérité était conn ue
+de nous , il ne nous serait pas possible de porter la
+hardiesse et la démence jusqu'à offenser la majesté
+adorable de notre Dieu.
+
+Considérons, mes sœurs, de quelle ineffable mi-
+séricorde et de quelle patience il use envers nous,
+en ne nous précipitant pas dans l’abîime à l'instant
+même où nous l'offensons. Rendons-lui-en de très-
+vives actions de grâces, et ayons honte désormais
+d'être sensibles à ce que l'on fait ou que l'on dit
+contre nous. Car est-il au monde iniquité plus grande
+que de voir que Dieu notre Créateur souffre que
+MÉDITATIONS, SÉRIE 1. — LUNDI. 35
+
+nous commettions dans lui-même tant d'offenses,
+el que nous ne puissions endurer quelques paroles
+dites contre nous en notre absence, et peut-être sans
+mauvaise intention ! Après l'exemple de miséricorde
+que notre Dieu nous donne, quel droit n’a-t-il pas
+de vouloir que tous pardonnent, quelque grandes
+que soient les offenses qu'ils aient reçues? (Chdteau
+intérieur, sixième demeure, chap. x.)
+V
+
+CRAINTE DE DIEU. — FUITE DL PÉCHÉ.
+
+Venons maintenant à la crainte de Dieu. Un tel
+bien, ainsi que l’amour de Dieu, est facilement
+aperçu, et de celui qui le possède, et de ceux qui
+traitent avec lui. II faut cependant remarquer qu’à
+moins d’une grâce extraordinaire que Dieu est
+maître d'accorder quand il lui plaît, cette crainte
+n'est point parfaite dans les commencements : elle
+grandit peu à peu, et acquiert de jour en jour une
+force nouvelle. L'âme en qui elle habite, le fait
+néanmoins bientôt connaître : elle s'éloigne soudain
+du péché, des occasions dangereuses, des mauvaises
+compagnies, et révèle par d’autres indicesle précieux
+trésor qu’elle possède. Mais dans les âmes parve-
+nues à la contemplation, et c’est d'elles surtout que
+je parle en ce moment, la crainte, comme l'amour,
+éclate d’une manière très-visible au dehors. Que de
+l'œil le plus attentif on observe ces personnes, on
+ne les verra jamais marcher sans vigilance ; Notre-
+MÉDITATIONS, SÉRIE I. — LUNDI. 47
+
+Seigneur les tient de telle sorte, que, pour le plus
+grand intérêt de la terre, elles ne commettraient pas,
+de propos délibéré, un péché véniel ; quant aux
+mortels, elles les craignent comme le feu. Je sou-
+haite ardemment, mes sœurs, que vous redoutiez de
+toute votre âme les illusions qu'on se fait sur un
+point si capital. Quant aux tentations, supplions
+Dieu , et continuellement, de ne point permettre
+que leur violence nous porte jamais au péché, mais
+qu’il daigne les proportionner à la force qu'il nous
+donne pour les vaincre. Voilà, mes filles, la crainte
+salutaire que je désire voir en vous; ne la perdez
+jamais, et elle sera votre sauvegarde.
+
+O mes filles, que c’est une grande chose de garder
+notre âme pure de toute offense contre Dieu! Par
+là les démons, qui sont ses esclaves, demeurent
+comme enchaînés ; car enfin il faut que, de gré ou
+de force, toutes les créatures lui obéissent, et la seule
+différence entre eux et nous, c'est qu'ils le font par
+contrainte, tandis que nous le faisons de plein gré.
+Ainsi, que Dieu soit content de nous, et ces esprits
+pervers seront forcés de se tenir à distance ; ils ne
+pourront nous nuire en rien, dans quelques tenta-
+tions qu'ils nous engagent, et quelques piéges secrets
+qu'ils nous tendent.
+
+Travaillez donc, mes filles, à acquérir cette pu-
+38  TRAITÉ DE L'ORAISON ET DE LA MÉDITATION.
+
+reté de conscience si importante et si précieuse ; ne
+cessez de faire les plus courageux efforts jusqu’à ce
+que vous soyez fermement résolues de ne point of-
+fenser Dieu, de mourir plutôt mille fois que de
+commettre un péché mortel ; et quant aux péchés
+véniels, de n’en jamais commettre aucun de propos
+délibéré. Je dis de propos délibéré, et à dessein : car
+pour les autres péchés véniels qui n’ont point ce
+caractère, quel est celui à qui il n'en échappe pas
+beaucoup? Mais il y a deux sortes d'advertance :
+l'une est accompagnée de réflexion ; l’autre est si
+soudaine, que commettre le-péché véniel et s'en
+apercevoir, g'est en quelque sorte tout un; l’on
+peut dire en ce dernier cas que l'on n'a point su ce
+que l’on faisait. Parlant des péchés véniels où il y a
+pleine advertance, je dis : Que le Seigneur nous pré-
+serve d'en commettre aucun, quelque petit qu'il
+soit. Combien notre horreur doit s’augmenter, si
+nous songeons qu'aucune offense contre un Dieu si
+grand n'est petite, surtout quand on voit, en la com-
+mettant, qu’on est sous ses yeux. Selon moi, c’est
+là un péché prémédité; c'est comme si l’on disait à
+Dieu : Seigneur, bien que cela vous déplaise, je ne
+laisserai point de le faire ; je vois que vous le voyez.
+Je sais, je comprends que vous ne le voulez pas, mais
+j'aime mieux suivre mon caprice et mon goût que
+MÉDITATIONS, SÉRIE IL. — LUNDI. 39
+
+votre volonté. Et un péché de cette sorte serait peu
+de chose! Ce n’est pas mon avis : quelque léger
+qu'il soit du côté de la faute, je trouve au contraire
+que c’est beaucoup, et grandement beaucoup.
+Désirez-vous, mes filles, acquérir cette crainte
+d’où dépend le salut? Efforcez-vous d'approfondir
+toute la gravité d’une offense contre Dieu, et ayez-
+la souvent présente à votre esprit ; considérez en-
+suite la sécurité et le bonheur d’une âme où cette
+crainte du Seigneur est déjà enracinée. Jusqu'à ce
+qu’elle le soit en vous, marchez toujours avec beau-
+coup de circonspection ; évitez les occasions et les
+compagnies qui ne vous aident point à vous unir
+plus intimement à Dieu. Dans toutes vos actions,
+ayez soin de vaincre votre volonté ; ne dites rien qui
+ne puisse édifier ceux qui vous écoutent, et fuyez
+tous les entretiens dont Dieu ne serait pas l’objet.
+Il ne faut pas peu de travail, j'en conviens, pour
+parvenir à imprimer en nous cette crainte; toute-
+fois, si nous avons un véritable amour de Dieu,
+nous en viendrons à bout en peu de temps. Mais
+dès qu’une âme se voit en possession de ce bien, et
+se sent fermement résolue de ne commettre pour
+rien au monde aucune offense contre Dieu, elle peut
+agir avec une sainte liberté. 11 pourra bien lui ar-
+river de faire encore quelques chutes, mais elle
+40  TRAITÉ DE L'ORAISON ET DE LA MÉDITATION.
+
+saura les mettre à profit : elle reconnaîtra combien
+par nous-mêmes nous sommes faibles, et que c’est
+dans nos plus fermes résolutions qu'il faut le plus
+nous défier de nous-mêmes, pour ne fonder notre
+confiance qu’en Dieu seul.
+
+Ainsi, mes filles, une fois que vous verrez en
+vous cette heureuse disposition, marchez avec moins
+d'appréhension et de crainte; Notre-Seigneur vous
+assistera, et la coutume même de ne point l’offenser
+vous sera d’un grand secours. Agissez avec une
+sainte liberté, et ne craignez pas de la laisser pa-
+raître dans les rapports de légitime convenance que
+vous aurez même avec les personnes du monde.
+Car ceux-là même dont le commerce aurait pu être
+un.nortel poison pour votre âme avant qu’elle pos-
+sédât cette véritable crainte de Dieu, vous excite-
+ront souvent à l'aimer davantage, et à le bénir de
+vous avoir délivrées d’un péril qui est maintenant
+si visible pour vous. (Chemin de la perfection,
+chap. £x11.)
+

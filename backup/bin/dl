@@ -1,8 +1,0 @@
-#!/bin/ksh
-
-x=$(xclip -o)
-if [[ -n $(echo $x | grep -oE '^http') ]]; then
-	youtube-dl $x
-else
-	youtube-dl 'https://www.youtube.com/watch?v='$x
-fi
