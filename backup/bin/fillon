@@ -1,0 +1,5 @@
+#!/bin/ksh
+
+path=$(find /mnt/disk/livres/bible/fillon -name *$1*)
+
+zathura $path &
