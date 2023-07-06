@@ -6,7 +6,7 @@ map ;p :r !xclip -o
 map ;y :.w !xclip
 map ;yy :.w !xclip -selection clipboard
 map ;fn :r !echo '[^1]\n\n[^1]:'
-map ;glaire :r !echo '[^1]\n\n[^1]: Glaire 1905, p.'
+map ;glaire :r !echo '[^1]\n\n[^1]: Glaire 1905.'
 map ;u :! ssg %
 map ;d :r !date "+\%d/\%m/\%Y"
 map ;fr :! remote up fr %
