@@ -13,6 +13,14 @@ while [[ -z $paths ]]; do
 	fi
 done
 
+# Removing directories
+for file in $paths; do
+	if [[ -f $file ]]; then
+		files=$files' '$file
+	fi
+done 
+paths=$files
+
 select path in $paths 'select all files'; do
 	if [[ $path == 'select all files' ]]; then
 		path=$paths 
@@ -46,10 +54,8 @@ select path in $paths 'select all files'; do
 				echo 'Pattern not found.'
 				zathura $path &
 			fi
-		elif [[ $prog == 'nvi' || $prog == 'vi' ]]; then
-			nvi $path
 		else
-			$EDITOR $path
+			$prog $path
 		fi
 	done
 done
