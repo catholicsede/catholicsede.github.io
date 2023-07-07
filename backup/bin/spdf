@@ -1,0 +1,45 @@
+#!/bin/ksh
+
+ROOT=/mnt/disk
+
+file_pat=$1
+content_pat=$2
+
+if [[ -z $file_pat ]]; then
+	echo -n 'Specify file pattern: '
+	read file_pat 
+fi
+
+paths=$(find $ROOT -path *$file_pat*)
+
+for file in $paths; do
+	echo $file
+done
+
+echo -n 'Proceed? y (n): '
+read resp
+if [[ $resp != 'y' ]]; then
+	exit
+fi
+
+if [[ -z $content_pat ]]; then
+	echo -n 'Specify content pattern: '
+	read content_pat
+fi
+
+for file in $paths; do
+	if [[ -z $content_pat ]]; then
+		zathura $paths &
+	else
+		page=$(pdfgrep -n -m 1 "$content_pat" $paths | \
+			grep -oE '^[0-9]{1,4}:' | \
+   			sed 's/://')
+		if [[ -n $page ]]; then
+			zathura -P $page $paths &
+		else
+			echo 'Pattern not found.'
+			zathura $paths &
+		fi
+	fi
+done
+
