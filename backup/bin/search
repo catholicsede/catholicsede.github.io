@@ -1,0 +1,55 @@
+#!/bin/ksh
+
+ROOT=/mnt/disk
+
+file_pat=$1
+content_pat=$2
+
+while [[ -z $paths ]]; do
+	paths=$(find $ROOT -path *$file_pat*)
+	if [[ -z $paths ]]; then
+		echo -n 'File pattern not found, try again: '
+		read file_pat 
+	fi
+done
+
+select path in $paths 'select all files'; do
+	if [[ $path == 'select all files' ]]; then
+		path=$paths 
+	fi
+
+	ext=$(echo $path | grep -oE '\.[a-zA-Z]+$' | sed 's/\.//')
+	if [[ $ext == 'pdf' ]]; then 
+		prog=zathura
+		if [[ -z $content_pat ]]; then
+			echo -n 'Specify or not content pattern: '
+			read content_pat
+		fi
+	else
+		echo -n "Editor: ($EDITOR) " 
+		read prog
+		if [[ -z $prog ]]; then
+			prog=$EDITOR
+		fi
+	fi
+
+	for file in $path; do
+		if [[ -z $content_pat && $ext == 'pdf' ]]; then
+			zathura $path &
+		elif [[ $ext == 'pdf' ]]; then
+			page=$(pdfgrep -n -m 1 "$content_pat" $path | \
+				grep -oE '^[0-9]{1,4}:' | \
+   				sed 's/://')
+			if [[ -n $page ]]; then
+				zathura -P $page $path &
+			else
+				echo 'Pattern not found.'
+				zathura $path &
+			fi
+		elif [[ $prog == 'nvi' || $prog == 'vi' ]]; then
+			nvi $path
+		else
+			$EDITOR $path
+		fi
+	done
+done
