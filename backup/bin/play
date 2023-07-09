@@ -1,9 +1,0 @@
-#!/bin/ksh
-
-x=$(xclip -o)
-echo $x
-if [[ -n $(echo $x | grep -oE 'http') ]]; then
-	mpv $x
-else
-	mpv 'https://www.youtube.com/watch?v='$x
-fi

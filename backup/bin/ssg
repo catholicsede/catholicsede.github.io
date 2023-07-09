@@ -153,10 +153,10 @@ function make_post {
 
 		# Append markdown content to $file_out
 		# (might need to leave a blank line at the top)
-		if [[ $file_slug == '/'$lang'/index.html' &&
-			 -f $SRC'/'$lang'/news/index.md' ]]; then
-			make_news $file_slug | lowdown --html-no-head-ids --html-no-skiphtml --html-no-escapehtml >> $file_out
-		fi
+#		if [[ $file_slug == '/'$lang'/index.html' &&
+#			 -f $SRC'/'$lang'/news/index.md' ]]; then
+#			make_news $file_slug | lowdown --html-no-head-ids --html-no-skiphtml --html-no-escapehtml >> $file_out
+#		fi
 		lowdown --html-no-head-ids --html-no-skiphtml --html-no-escapehtml $file_in >> $file_out
 
 		# Append index list to index.html

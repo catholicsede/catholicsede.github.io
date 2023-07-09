@@ -1,3 +1,0 @@
-# Règle de saint François
-
-***

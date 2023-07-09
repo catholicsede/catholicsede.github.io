@@ -1,5 +1,5 @@
 #env
-LESS = -i -m 
+LESS = -i -m -X
 
 #command
 h prev-file 

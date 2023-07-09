@@ -1,0 +1,47 @@
+#!/bin/ksh
+
+x=$(xclip -o)
+echo "VIDEO: $x"
+
+function convsec {
+	(( h=$1/3600 ))
+	(( m=($1%3600)/60 ))
+	(( s=$1%60 ))
+	printf "%02d:%02d:%02d" $h $m $s
+}
+
+echo -n 'Start time (in sec): '
+read start
+if [[ -n $start ]]; then
+	s="-ss $(convsec $start)"
+fi
+echo -n 'End time (in sec): '
+read end 
+if [[ -n $end ]]; then
+	e="-to $(convsec $end)"
+fi
+
+echo "START: $s"
+echo "END: $e"
+
+if [[ -n $(echo $x | grep -oE 'http') ]]; then
+	url=$x
+else
+	url='https://www.youtube.com/watch?v='$x
+fi
+
+echo "URL: $url"
+
+if [[ -n $start || -n $end ]]; then
+	yt-dlp \
+		-S "height:480" \
+		-o "/tmp/%(title)s %(id)s" \
+		--downloader ffmpeg \
+		--external-downloader-args "$s $e" \
+		"$url"
+else
+	yt-dlp \
+		-S "height:480" \
+		-o '/tmp/%(title)s %(id)s' \
+		"$url"
+fi

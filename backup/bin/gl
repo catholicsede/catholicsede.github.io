@@ -2,11 +2,11 @@
 
 # Run "gl" without any argument and it will call "gl.conf".
 
-ROOT=$HOME/ksh/glaire
+ROOT=$HOME/bin/glaire
 
-cat $ROOT/at.txt | awk 'BEGIN {
+cat $ROOT/nt.txt | awk 'BEGIN {
 	FS = " ";
-	root = "/home/jonathan/ksh/glaire/data";
+	root = "/home/jonathan/bin/glaire/data";
 	num = "";
 }
 {

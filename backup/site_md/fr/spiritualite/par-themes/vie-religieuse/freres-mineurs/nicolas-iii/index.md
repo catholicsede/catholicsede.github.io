@@ -1,6 +1,6 @@
 # Pape Nicolas III
 
-Déclaration sur la Règle des Frères Mineurs.
+Déclaration sur la Règle des Frères Mineurs, 14 août 1279.
 
 ***
 

@@ -1,6 +1,6 @@
 # Pape Clément V
 
-Déclaration sur la Règle des Frères Mineurs.
+Déclaration sur la Règle des Frères Mineurs, 6 mai 1312.
 
 ***
 

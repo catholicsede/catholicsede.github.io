@@ -1,0 +1,84 @@
+#!/bin/ksh
+
+#i=78
+#while [[ $i -le 103 ]]; do
+#	if [[ $i -lt 10 ]]; then
+#		n='00'$i
+#	elif [[ $i -lt 100 ]]; then
+#		n='0'$i
+#	else
+#		n=$i
+#	fi
+#	ftp 'http://sacredbible.org/vulgate1861/scans/'$n'-Numeri.jpg'
+#
+#
+#	(( i=i+1 ))
+#done
+#
+#
+
+#while read line; do
+#	filename=$(echo $line | grep -oE 'NT-.*\.' | sed 's/\.//')
+#	echo $filename
+#	w3m -dump -cols 99999 $line > $filename
+#done < urls
+
+#FOR file in raw/*; do
+#	chap=$(echo $file | grep -oE '_.*' | sed 's/_//')
+#	cat $file | awk 'BEGIN {
+#		FS = "";
+#	}
+#	/^\{/{
+#		chap = 
+#		print $0;
+#	}'
+#done
+
+i=1
+for file in raw/*; do
+	echo $file
+	book=$(echo $file | grep -oE '_.*' | sed 's/_//')
+	lbook=$(echo $book | \
+		awk -v book=$book '{print tolower(book);}')
+	if [[ $i -lt 10 ]]; then
+		n='0'$i
+	else
+		n=$i
+	fi
+	((i=i+1))
+	out='clean/'$n'-'$lbook
+	mkdir -p $out
+	echo '# '$(echo $book | sed -E 's/-/ /')'\n\n***' > \
+		$out'/index.md' 
+
+	j=0
+	while read line; do
+		if [[ -n $(echo $line | grep -oE '^\{') ]]; then
+			chap=$(echo $line | grep -oE '^{[0-9]{1,3}:' | \
+				sed -E 's/://' | sed -E 's/\{//')
+			if [[ $chap -lt 10 ]]; then
+				n='00'$chap
+			elif [[ $chap -lt 100 ]]; then
+				n='0'$chap
+			else
+				n=$chap
+			fi
+
+			if [[ $j != $chap ]]; then
+				echo '# Caput '$chap'\n\n***\n' > \
+					$out'/chap'$n'.md'
+			fi
+			j=$chap
+		
+		line_out=$(echo $line | \
+			grep -oE ':[0-9]{1,3}.*' | sed -E 's/://' | \
+			sed -E 's/\}//')
+
+		echo $line_out'\n' >> $out'/chap'$n'.md'
+
+		fi
+	done < $file
+
+done
+
+
