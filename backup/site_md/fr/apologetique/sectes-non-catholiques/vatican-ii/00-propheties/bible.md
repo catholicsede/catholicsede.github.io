@@ -1,4 +1,4 @@
-# Grande Apostasie
+# Dans la Bible
 
 ***
 
@@ -32,20 +32,3 @@ Matthieu 24:24-25 :
 
 [^4]: Glaire 1905, p. 2832-2833.
 
-Pape saint Pie X, E supremi apostolatus, 4 oct. 1903 :
-
-> "Qui pèse ces choses a droit de craindre qu'une telle perversion des esprits ne soit le commencement des maux annoncés pour la fin des temps, et comme leur prise de contact avec la terre, et que véritablement le fils de perdition dont parle l'Apotrc n'ait déjà fait son avènement parmi nous." [^5]
-
-[^5]: S. Pie X 1903, t. 1, p. 35.
-
-Pape Pie XI, Quinquagesimo ante anno, 23 déc. 1929 : 
-
-> "Atque eorum e dioecesi Nostra filiorum tanta calendis Decembribus multi ludo in Petrianum tempi uni, veniae lucrandae causa, convenit, ut amplissimam Aedem nunquam fonasse tam stipatam viderimus." [^6]
-
-[^6]: Pie XI 1922, t. 6, p. 75.
-
-Notre-Dame de la Salette, 19 sept. 1846 : 
-
-> "Rome perdra la foi et deviendra le siège de l'antechrist... L'Eglise sera éclipsée, le monde sera dans la consternation." [^7]
-
-[^7]: Mélanie 1881, p. 13.
