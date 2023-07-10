@@ -181,6 +181,8 @@ Oudin. (1865). Règle primitive et constitutions des religieuses de l'ordre de N
 
 Chave Marc. (1702). La première règle d'Albert, patriarche de Jérusalem, confirmée et corrigée par Notre Saint Père Innocent Quatrième, pour les religieux du Mont-Carmel. De l'imprimerie de Marc Chave.
 
+Cyprien de Gamaches père. (1881). Mémoires de la mission des Capucins de la province de Paris près de la reine d'Angleterre, depuis l'anné 1630 jusqu'à 1669, par le P. Cyprien de Gamaches, prédicateur Capucin et missionnaire d'Angleterre, revus, annotés et publiés par le P. Apollinaire de Valence, religieux du même Ordre. Librairie Poussielgue Frères, rue Cassette, 15.
+
 Palomés Louis O.F.M.Conv. (1901). Des frères mineurs et de leurs dénominations. Traduit de l'italien. Anoine Palomés, éditeur.
 
 PII X Papae. (1936). Breviarium romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. PII V Pontificis Maximi jussu editum aliorumque pontificum cura recognitium PII Papae X auctoritate reformatum. Editio vigesima juxta typicam, Pars hiemalis, Turonibus, sumptibus et typis mame.
@@ -219,9 +221,9 @@ Riche A. abbé. (1847). Floretti ou Petites fleurs de saint François d'Assise, 
 
 Roger A., Chernoviz F. Lettres apostoliques de S. S. Léon XIII. Collection des Bons livres.
 
-Questions actuelles. (1893). Documents et renseignements sur les questions actuelle, no. du 11 mars 1893.
-
 Roger A., Chernoviz F. Lettres apostoliques de Pie IX, Grégoire XVI, Pie VII, encycliques, brefs, etc. Collection des Bons livres.
+
+Questions actuelles. (1893). Documents et renseignements sur les questions actuelle, no. du 11 mars 1893.
 
 Réaume abbé. (1865). Petit rituel ou guide pratique des paroissiens dans la réception des sacrements et les principales circonstances de la vie chrétienne. Meaux, librairie de la Blondel, éditeur, deuxième édition.
 
@@ -236,6 +238,8 @@ Saint François de Sales. (1895). Oeuvres complètes de saint François de Sales
 Babuty François. (1736). Les six livres de saint Augustin contre Julien défenseur de l'hérésie pélagienne. Traduits en français sur l'édition des P.P.B.B. de la Congrégation de Saint Maur. Chez François Babuty.
 
 Seguin Aîné. (1830). Le confesseur des gens de campagne, ou abrégé de la théologie morale, par le bienheureux Alphonse de Liguori, traduit de l'italien. Seguin Aîné, imprimeur-librairie.
+
+Fidèle de Talissieu père. (1867). Histoire abrégée des missions des pères Capucins de Savoie, par le père Charles de Genève, 1657, traduite en français par le père Fidèle de Talissieu, capucin, 1680.
 
 Vidal abbé. (1845). Oeuvres complètes du bienheureux A.-M. De Liguori, traduites de l'italien en français et mises en ordre par une société d'ecclésiastiques, sous la direction de MM. les abbés Vidal, Delaille et Bousquet. Paul Mellier, librairie-éditeur.
 

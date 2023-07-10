@@ -8,6 +8,12 @@ Pape Léon XIII, Satis Cognitum, 1896 :
 
 [^1]: Roger, t. 4, p. 247.
 
+Pape Grégoire XVI, Inter praecipuas, 8 mai 1844 :
+
+> "Aussi est-il bien établi pour vous que, dès les premiers âges du christianisme, le propre des hérétiques fut de répudier la parole de Dieu transmise par la tradition, et de rejeter l'autorité de l'Eglise catholique, pour lacérer de leur main les Ecritures, ou en corrompre le sens par leur interprétation." [^1]
+
+[^1]: Roger A., pp. 223-225.
+
 Droit canonique de 1917, can. 1325.2 :
 
 > "§ 2. Post receptum baptismum si quis, nomen retinens Christianum, pertinaciter aliquam ex veritatibus fide divina et catholica credendis depertinaciter aliquam ex veritatibus fide divina et catholica credendis denegat aut de ea dubitat, haereticus..." [^2]

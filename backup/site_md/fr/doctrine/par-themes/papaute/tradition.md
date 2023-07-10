@@ -30,6 +30,18 @@ Pape Eugène IV, concile de Florence, Laetentur Caeli, 6 juillet 1439 :
 
 [^3]: D'Avril 1861, p. 15.
 
+Pape Pie IX, Amantissimus, 8 avril 1862 :
+
+> "Il existe d'autres preuves, presque innombrables, tirées des témoins les plus dignes de confiance qui attestent clairement et ouvertement avec une grande foi, exactitude, respect et obéissance que tous ceux qui veulent appartenir à la véritable et unique Église du Christ doivent honorer ce Siège Apostolique et Pontife Romain et lui obéir." [^1]
+
+[^1]: Papal Encyclicals, consulté le 10 juillet 2023, traduit par CatholicSede.github.io. Original : "*There are other, almost countless, proofs drawn from the most trustworthy witnesses which clearly and openly testify with great faith, exactitude, respect and obedience that all who want to belong to the true and only Church of Christ must honor and obey this Apostolic See and Roman Pontiff*. [papalencyclicals.net](https://www.papalencyclicals.net/pius09/p9amant2.htm)
+
+Pape Pie VI, Charitas, 13 avril 1791 :
+
+> "Car nul ne peut être dans l'Église du Christ sans être en unité avec son chef visible et fondé sur le Siège de Pierre." [^1]
+
+[^1]: Papal Encyclicals, consulté le 10 juillet 2023, traduit par CatholicSede.github.io. Original : "*For no one can be in the Church of Christ without being in unity with its visible head and founded on the See of Peter*." [papalencyclicals.net](https://www.papalencyclicals.net/pius06/p6charit.htm)
+
 Saint Irénée de Lyon, Contre les hérésies, livre III, chap. 3 :
 
 > "Les apôtres, après avoir fondé cette Eglise de Rome, en remirent l'administration à Lin, qu'ils en instituèrent évêque. Son successeur fut Anaclet; après Anaclet ce fut Clément, que l'on investit de l'épiscopat; celui-ci avait connu les apôtres et conversé avec eux, il avait encore toutes vivantes dans son souvenir leurs prédications et les instructions relatives à ïa tradition; et il n'était pas le seul : car il existait encore alors beaucoup d'autres personnages qui avaient reçu les enseignements de la foi de la bouche même des apôtres." [^4]
