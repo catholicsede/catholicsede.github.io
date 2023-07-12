@@ -10,12 +10,32 @@ function+news {
 	z30
 }
 
-function+bfmtv {
-	b https://bfmtv.com
-	/h3.*toute l'actualité.*/
+# youtube search, look for something on youtube
+function+yts {
+	b http://www.youtube.com/results?search_query=~0
+}
+
+function+dl {
+	ub
+	/class="youtube"
+	/start
+	/end
+	?id
+	s/id//
+	s/"//g
+	s/=//
+	!dl '.
+}
+
+function+wiki {
+	b https://github.com/CMB/edbrowse/wiki
+	/h2.*Tips for
 	z30
 }
 
+function+doc {
+	b /usr/local/share/doc/edbrowse/usersguide.html
+}
 
 #  email account;you may have several.
 #  a gmail account,most people have one of these now adays.
@@ -132,21 +152,31 @@ outtype=T
 #  Every time you fetch a web page from the internet,
 #  your browser identifies itself to the host.
 # Here are some alternate agents,default is edbrowse 3.7.3
-agent=Lynx/2.8.4rel.1 libwww-FM/2.14
-agent=Mozilla/4.0(compatible;MSIE 7.0;Windows NT 6.1;WOW64;Trident/5.0;SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;Media Center PC 6.0; .NET4.0C; .NET4.0E)
+#agent=Lynx/2.8.4rel.1 libwww-FM/2.14
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.15 Safari/537.36
 
 #  Ok,we're ready to write our first script.
 #  How about a function to access google.
 #  So   <gg elephants tigers   will call up google,
 #  looking for elephants and tigers together.
 function+gg{
-b http://www.google.com
-/<>/ i=~0
-/</ i1*
-/h3/p
-#  Search results by h3 heading only works if google recognizes your browser,
-#  so you need to spoof to IE7.
+	b http://www.google.com
+	/<>/ i=~0
+	/</ i1*
+	/h3/
+	.,+100g/h3/
+	#  Search results by h3 heading only works if google recognizes your browser,
+	#  so you need to spoof to IE7.
 }
+
+function+dd {
+	b https://duckduckgo.com
+	/<>/ i=~0
+	i2*
+	/h2/
+	.,+200g/h2/
+}
+
 
 # google search does not require javascript
 nojs=google.com

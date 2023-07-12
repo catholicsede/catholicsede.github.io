@@ -1,6 +1,10 @@
 #!/bin/ksh
 
-x=$(xclip -o)
+x=$1
+if [[ -z $x ]]; then
+	x=$(xclip -o)
+fi
+
 echo "VIDEO: $x"
 
 function convsec {
@@ -32,15 +36,21 @@ fi
 
 echo "URL: $url"
 
+echo -n 'Audio only? y (n): '
+read audio
+if [[ $audio == 'y' ]]; then 
+	options='-x'
+fi
+
 if [[ -n $start || -n $end ]]; then
-	yt-dlp \
+	yt-dlp $options \
 		-S "height:480" \
 		-o "/tmp/%(title)s %(id)s" \
 		--downloader ffmpeg \
 		--external-downloader-args "$s $e" \
 		"$url"
 else
-	yt-dlp \
+	yt-dlp $options \
 		-S "height:480" \
 		-o '/tmp/%(title)s %(id)s' \
 		"$url"

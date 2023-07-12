@@ -32,6 +32,8 @@ Bouix Marcel père. (1862). Oeuvres spirituelles de Saint Pierre d'Alcantara, tr
 
 Caprara Card. J. B légat, Sala J. A. secrétaire de la Légation Apostolique. (1802). Convention entre sa sainteté Pie VII, et le gouvernement français; Articles organiques et Bulle de ratification de la Convention, Décret pour la nouvelle circonscription des Archevêchés et Evêchés, et Indult pour la réduction des Fêtes.
 
+Carmélites de Paris. (1890). Vie et oeuvres spirituelles de l'Admirable Docteur Mystique le Bienheureux Père Saint Jean de la Croix, premier Carme déchaussé et coopérateur de la Séraphique Mère Sainte Thérèse de Jésus dans la Fondation de la Réforme de l'Ordre de Notre-Dame du Mont-Carmel, traduction nouvelle faite sur l'édition de Séville de 1702, publiée par les soins des Carmélites de Paris. Librairie religieuse H. Oudin, J. Leday et Cie, Successeurs, 10, rue de Mézières.
+
 Carmélites du premier monastère à Paris. (1894). Mémoire sur la fondation, le gouvernement et l'observance des carmélites déchaussées. Dubois-Poplimont, imprimeur-éditeur.
 
 Carnandet MM. J., Fèvre J. (1866). Le martyrologe romain publié par l'ordre de Grégoire XIII, revu par l'autorité d'Urbain VII et de Clément X, augmenté et corrigé en 1749, par le pape Benoît XIV. Traduction d'après l'exemplaire imprimé à Rome en 1845. L. Gauthier, librairie-éditeur, V. Palmé, libraire-éditeur.

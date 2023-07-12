@@ -35,19 +35,26 @@ select vers in glaire vulgata; do
 			print $0;
 		}
 		for (i = start; i <= end; i++) {
-			pat1 = " " i " ";
-			pat2 = "^"i " ";
-			pat3 = ":" i " "; 
-			pat4 = ";" i " "; 
-			pat5 = "," i " "; 
+			pat1 = "^[0-9]+.*" i " ";
+			pat2 = "^" i " ";
+			pat3 = "^[0-9]+.*:" i " "; 
+			pat4 = "^[0-9]+.*;" i " "; 
+			pat5 = "^[0-9]+.*," i " "; 
 			if ($0 ~ pat1 || $0 ~ pat2 || \
 				$0 ~ pat3 || $0 ~ pat4 || \
 				$0 ~ pat5) {
-				if ($0 != text) {
-					print $0 "\n";	
+				if ($0 !~ text) {
+					print $0;	
 					text = $0;
 				}
 			}
 		}
-	}'
+	}' > /tmp/out.txt
+
+if [[ -z $start ]]; then
+	less /tmp/out.txt
+else
+	cat /tmp/out.txt
+fi
+
 done
